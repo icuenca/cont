@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIGKjCCBBKgAwIBAgIUMDAwMDEwMDAwMDA0MDg0NjE5MjAwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTcxMjA3MTgzMzM2WhcNMjExMjA3MTgzMzM2WjCByjElMCMGA1UEAxMcVFJBTlNQT1JURVMgQUVST01BUiBTQSBERSBDVjElMCMGA1UEKRMcVFJBTlNQT1JURVMgQUVST01BUiBTQSBERSBDVjElMCMGA1UEChMcVFJBTlNQT1JURVMgQUVST01BUiBTQSBERSBDVjElMCMGA1UELRMcVEFFODcwMTI5Rjk4IC8gQUVDTTU4MDkxMjFUMjEeMBwGA1UEBRMVIC8gQUVDTTU4MDkxMkhWWk5DUjA2MQwwCgYDVQQLEwNNRVgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/W3/Zj/ynbkU+E0/dbiv5ukY0m7P7HkWiUk8/EpDF1YQL8xDT7r623XE90tc3lwQ4ZWvBytRPb7zQ4nzkUdO9MDi5qg1Iqz0WzNExJ7gkyRRBqZgLfvDXQjWJTyirJJ5dytAwG2gAavRYM3qfFb/o/PnW75D2Wfvf9MurlahUZ3y5QpPzDnrp5k3njzXLue6B3pa9dnLPZIF13LVkybDhZY50dyhbyvowzel9Qoik9kwpwAVMadD5T6vVqD08ddaB/xlGAXMp7BSBja9MkojAxi02oIdmoCoCw04gaseI2MBT9v4/6x4TSFfCkyvS2+t/tnTHNXkRQXyQl8UArE+NAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQBgK3O8OKbVkcBiR9h1LH3IgMd2EfAVK8ZhEWTSL6FtTlMxYSdu0Keyzm3DFy16AdDvx9784Pu15JBfFzGPjGuKDkzXFOjly10r3VEWfjLlYX4s0o2WR2jo56V1FWIzLMWfcrZgQfElAU59OYo1x1nQWkAyTtJvrR0oFUq5t3ky5z8EwlbzuxNRvy3cd39BQ1StN8+Kl5PsiHOzAG+5nbo9p6IF7mY4IoC8cAw4Q3eWkJSv+Dl7GnoEJLZ7pFwZwTIJS6zGlGOQU16iiMjGIE/HaLl5QEnXQPl8k3pM70DZc+/CQlnQTWXU6ILShbhLYOnNNeYqwe3Bf5LXzZWWvwRw14aqjTs4ov2pb8KoGRptfyKf92m6sKjWlS7UgRVz0CumL+zwNQWuq1PUd/mLDBid9MNzSeFC1s/fJVjL0nKQTWYzCX++sQbJ+erRi1vWqESGaXNx9wgfSvEEgGhsrn8GGKviIen39896NbgzPEpWuidGJe2U7xAbDksgKnyiY645yEUceEEbjGdslhVr3v1hesNzjEZ9aZYopzqWI6T/YhuGHWjJcbx/WJhAVi2KN4FLGXInWBRnrEfAFIJX8ZAlzOoDx9QG9nu/l8rBF/MSIDSSmCuLvJ0NyBjvVMppQUhc5fwBO2ZYeSMn955yjlqyp+I5lNX4M69krSKUI6NaKA==" Fecha="2018-02-15T00:00:00" Folio="00022633" FormaPago="04" LugarExpedicion="15620" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000408461920" Sello="BT/aO09PpgHqyrbIOADz4tQzsG/k0x0im+osmrJLJCICg5rjTD1uI1LLCWXFWWfTOAiAzJbtRvpSRsCaDdisR7n+0ZcaGaWe6IWgtZ41h/FGH4cJb2t14tp29eJLixgc34yFsnfZ9z/M4HTeGEjWNQh36jOfqf4gWKdso7UIMHq7DZYHGELWH+iHWNq4DjaNovTgTcJdbf30oWXJxWFKoHOVZbSnHQP/2r8TahHZbieUNQKaTJT8HprR14q0h9oAIhsWzjzkajhhOINfiPd+q4n1Vpf/mg26wu4gdB+2/4r4wAdIXO82PAkhHAS/Xsv3+R0qSWiChQfvdLXEkYE0gA==" Serie="AF1" SubTotal="1411.00" TipoCambio="1" TipoDeComprobante="I" Total="1555.00" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd">
+<cfdi:Emisor Nombre="TRANSPORTES AEROMAR S.A. DE C.V." RegimenFiscal="601" Rfc="TAE870129F98" />
+<cfdi:Receptor Nombre="INFORMATICA HAGAG SA DE CV" Rfc="IHA000314A38" UsoCFDI="P01" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E54" Descripcion="TARIFA DEL BOLETO 9422104071393 del pasajero BUSTAMANTE VAZQUEZ/EDGAR comprado el 2018-02-15" Importe="885.34" NoIdentificacion="TARPAX16" Unidad="VIAJE" ValorUnitario="885.34">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="885.34" Importe="141.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="78111500" ClaveUnidad="E48" Descripcion="Revision Equipaje (YR)" Importe="14.66" NoIdentificacion="REVPAX" Unidad="UNIDAD DE SERVICIO" ValorUnitario="14.66">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="14.66" Importe="2.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1" ClaveProdServ="01010101" ClaveUnidad="XNA" Descripcion="TARIFA USO DE AEROPUERTO (TUA)" Importe="511.00" NoIdentificacion="TUA" Unidad="NO DISPONIBLE" ValorUnitario="511.00" />
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="144.0">
+<cfdi:Traslados>
+<cfdi:Traslado Importe="144.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<aerolineas:Aerolineas TUA="511" Version="1.0" />
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-02-15T18:39:51" NoCertificadoSAT="00001000000405148267" RfcProvCertif="SEF100616AD2" SelloCFD="BT/aO09PpgHqyrbIOADz4tQzsG/k0x0im+osmrJLJCICg5rjTD1uI1LLCWXFWWfTOAiAzJbtRvpSRsCaDdisR7n+0ZcaGaWe6IWgtZ41h/FGH4cJb2t14tp29eJLixgc34yFsnfZ9z/M4HTeGEjWNQh36jOfqf4gWKdso7UIMHq7DZYHGELWH+iHWNq4DjaNovTgTcJdbf30oWXJxWFKoHOVZbSnHQP/2r8TahHZbieUNQKaTJT8HprR14q0h9oAIhsWzjzkajhhOINfiPd+q4n1Vpf/mg26wu4gdB+2/4r4wAdIXO82PAkhHAS/Xsv3+R0qSWiChQfvdLXEkYE0gA==" SelloSAT="ZjrC76pC8CrqIxw73zrR2/FTXGrGHVFbRAU5zgdpcAoDUms2tz0h+7efZArWButaKJT+iRfCWN96LlSAEWp92tRjXEDXsKsF0bSpGseAMIRO/E6PU5SAlybU4Yhp4RpqqVttmZR8Pfpavh+T2r06+1fj4dOzIOF8S3YLEW61K+1Ztnr9IYQZYDJHOAzv/A3N1ttons5765EzsXMGVWROZlAMlUyLscAvu+ez13a+AVbDq49+XreBkqJQUNvx2Ym5R194yXOU43o0ExqCyDkzuB1frsswMvsmAliNa/6h9LARtlRC0jekBBP/RPntNTIQ5oO1XZT438f1eG7K84IOwA==" UUID="8F95D086-16E8-4B8B-8D57-CAEAB1C9EB18" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" /></cfdi:Complemento>
+</cfdi:Comprobante>

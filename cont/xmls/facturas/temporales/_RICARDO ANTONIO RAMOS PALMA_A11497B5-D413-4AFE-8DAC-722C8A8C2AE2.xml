@@ -1,0 +1,24 @@
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="44470" MetodoPago="PUE" TipoDeComprobante="E" Total="17388.40" Moneda="MXN" Certificado="MIIE/zCCA+egAwIBAgIUMDAwMDEwMDAwMDAzMDc2MDE3MzIwDQYJKoZIhvcNAQELBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA3MTYxNjU0MzZaFw0xOTA3MTYxNjU0MzZaMIHHMSMwIQYDVQQDExpJTkZPUk1BVElDQSBIQUdBRyBTQSBERSBDVjEjMCEGA1UEKRMaSU5GT1JNQVRJQ0EgSEFHQUcgU0EgREUgQ1YxIzAhBgNVBAoTGklORk9STUFUSUNBIEhBR0FHIFNBIERFIENWMSUwIwYDVQQtExxJSEEwMDAzMTRBMzggLyBHVUFFNzgwNTAxUEg4MR4wHAYDVQQFExUgLyBHVUFFNzgwNTAxSEpDUkNWMDQxDzANBgNVBAsTBk1BVFJJWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIlfa4AY3FIUao4Jqz9Iqn9iLuX/0GHwVAgdr4SUBGRogJfbnvkiklJlZidgaf7YG7W/Km2PGQxV3B1TRIu1DMq1WZtiedGWmNGHwyVF2EhqV1v+fBu38Z9FwJ64jDbT/o59nVq2mZ0/1FIhzGajHAzQwVNGCEeW0YgJQL3l3BhMAcPvM94I9mxTsoawUYogZ6cPJOA8AXZ4AcXA6RT25rVdBQuSUnPv6Eh8NQJUhAkeindDY/0Urtg28bYSxT/o2ewbxn4p48pIDUdVz+v6ZtQLKgzGumOpE2+ZoHUj18V3H1k9vvMnB3MboC0gQ667ON5kF5POYm4hdUCNrxHTsV8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggEBAMX//ZqusHh58soKTZpRBdsEQpts3eWw3GnStnuDEUJAs+WzSmpEedPrU4s3KFBDELkgeMCu6o5KSDB1nKnA54tKJnFpw7OUAVWNB4pE6UL1IhJMWv+KdWF5kQmL4gI8BBobboBRwXdp/T9zR3/9ByvTHHuBg+4Tm5TDiSTRIbj0tZREGk3cUF3cJcN9SXflLk9VNCic8H542Fla/Ef79mhpMfHACABweTKweeAtrFuM/VHjm6vEeFRNkr6GzO8byZ+bw1nOK0Hcjsde0UB7ZrFvnuh/LGL8cA3s0NFkqI2Hqoa4JdDLXTvpxfzbgS97m2nhWCZojUiJyUPCR+jom9s=" SubTotal="14990.00" NoCertificado="00001000000307601732" FormaPago="01" Sello="BtWgI0cB6kZAghuiAOL8WRPJHn4/h3CbNdjOpr1sPE8/RIQikCoD29lVjnl6SEpUcCmI7XqiFReM806W5fyHZ8APsvUWum4sxYk49HGp3iLeZJdaNWz1FwUJ1hNB7TRzYTQ8wMpEdWEkXUrG3MXZQl7EqV8QNcPfYQ2rg3Ssodgej/LAhXiS5Fv2si3bGmrXDO0nP0GuNPB8GPM+18jumcsgLZBPVmVe1PmU/jiKMMvIqVmiUEfU8elL9U9dSFVP1WHgLNGRKjF9yEAYCJjBrdsDVs+uTwPPzk/p9oHFm8jnhDJBq7NrtuSShFyV4srdlB0GuylBl6lXYRip9egzaw==" Fecha="2018-01-15T17:58:55" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:CfdiRelacionados TipoRelacion="01">
+    <cfdi:CfdiRelacionado UUID="EDB65DD0-02F3-48A1-8C1D-9CF07131C991"></cfdi:CfdiRelacionado>
+  </cfdi:CfdiRelacionados>
+  <cfdi:Emisor Rfc="IHA000314A38" Nombre="INFORMATICA HAGAG SA DE CV" RegimenFiscal="601"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="RAPR830506C82" Nombre="RICARDO ANTONIO RAMOS PALMA" UsoCFDI="G02"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="43231506" Cantidad="1" ClaveUnidad="C62" Descripcion="CANCELACION DE VENTA" ValorUnitario="14990.00" Importe="14990.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14990.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2398.40"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2398.40">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2398.40"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="A11497B5-D413-4AFE-8DAC-722C8A8C2AE2" FechaTimbrado="2018-01-15T18:02:27" RfcProvCertif="SAT970701NN3" SelloCFD="BtWgI0cB6kZAghuiAOL8WRPJHn4/h3CbNdjOpr1sPE8/RIQikCoD29lVjnl6SEpUcCmI7XqiFReM806W5fyHZ8APsvUWum4sxYk49HGp3iLeZJdaNWz1FwUJ1hNB7TRzYTQ8wMpEdWEkXUrG3MXZQl7EqV8QNcPfYQ2rg3Ssodgej/LAhXiS5Fv2si3bGmrXDO0nP0GuNPB8GPM+18jumcsgLZBPVmVe1PmU/jiKMMvIqVmiUEfU8elL9U9dSFVP1WHgLNGRKjF9yEAYCJjBrdsDVs+uTwPPzk/p9oHFm8jnhDJBq7NrtuSShFyV4srdlB0GuylBl6lXYRip9egzaw==" NoCertificadoSAT="00001000000403258748" SelloSAT="cgEEYCcdh/P8/tLJad/91Li5Jyn42xY8caNCxalFW4fo59WAvxswX01jMhWp4Y7p91uudxEmda7gUxfQ9SjlbTFhGR7xS00/+fFco7QDrLV/yCbdrDxvcKQy6Tib8avmvqkm1N8hc0GSgoMvRuZgEsdY39dMGcQKLRn7UzDcFOAO0Mc2jTQYt/LSO5hXodttzPvkTB1aFf3Mo36e5EKZV8aehplkNsOAVsBJb1ttWKiRErDIkuLuKhzxxVOrjq9ts6slJdJAIR1LOTGUBn6VE42hXRzBeTZ4VKkTz7oHiCtHFITT7EpEt3UV1v97l6MttdQtXISqJd9gwMkG2fd0zw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

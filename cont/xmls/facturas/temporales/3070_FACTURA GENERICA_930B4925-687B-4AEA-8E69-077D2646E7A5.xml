@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIE/zCCA+egAwIBAgIUMDAwMDEwMDAwMDAzMDc2MDE3MzIwDQYJKoZIhvcNAQELBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA3MTYxNjU0MzZaFw0xOTA3MTYxNjU0MzZaMIHHMSMwIQYDVQQDExpJTkZPUk1BVElDQSBIQUdBRyBTQSBERSBDVjEjMCEGA1UEKRMaSU5GT1JNQVRJQ0EgSEFHQUcgU0EgREUgQ1YxIzAhBgNVBAoTGklORk9STUFUSUNBIEhBR0FHIFNBIERFIENWMSUwIwYDVQQtExxJSEEwMDAzMTRBMzggLyBHVUFFNzgwNTAxUEg4MR4wHAYDVQQFExUgLyBHVUFFNzgwNTAxSEpDUkNWMDQxDzANBgNVBAsTBk1BVFJJWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIlfa4AY3FIUao4Jqz9Iqn9iLuX/0GHwVAgdr4SUBGRogJfbnvkiklJlZidgaf7YG7W/Km2PGQxV3B1TRIu1DMq1WZtiedGWmNGHwyVF2EhqV1v+fBu38Z9FwJ64jDbT/o59nVq2mZ0/1FIhzGajHAzQwVNGCEeW0YgJQL3l3BhMAcPvM94I9mxTsoawUYogZ6cPJOA8AXZ4AcXA6RT25rVdBQuSUnPv6Eh8NQJUhAkeindDY/0Urtg28bYSxT/o2ewbxn4p48pIDUdVz+v6ZtQLKgzGumOpE2+ZoHUj18V3H1k9vvMnB3MboC0gQ667ON5kF5POYm4hdUCNrxHTsV8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggEBAMX//ZqusHh58soKTZpRBdsEQpts3eWw3GnStnuDEUJAs+WzSmpEedPrU4s3KFBDELkgeMCu6o5KSDB1nKnA54tKJnFpw7OUAVWNB4pE6UL1IhJMWv+KdWF5kQmL4gI8BBobboBRwXdp/T9zR3/9ByvTHHuBg+4Tm5TDiSTRIbj0tZREGk3cUF3cJcN9SXflLk9VNCic8H542Fla/Ef79mhpMfHACABweTKweeAtrFuM/VHjm6vEeFRNkr6GzO8byZ+bw1nOK0Hcjsde0UB7ZrFvnuh/LGL8cA3s0NFkqI2Hqoa4JdDLXTvpxfzbgS97m2nhWCZojUiJyUPCR+jom9s=" Fecha="2018-01-23T19:25:29" Folio="3070" FormaPago="01" LugarExpedicion="45500" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000307601732" Sello="gwnlQR28T4ri+UZ/sGGRamGdT3oF8TT5P2ehbGOhcsPSxxWghBVtzPFokzm42ppcIn6v29F8VGqUhIV6Jbqa6gp1v1TbQ2c9Vuh6GJwIQdBwNlGgQiZrV4CVNmyQu6kCgE+7vT2vOMsQR2s9E98ydoe2UNUXHPXbBuKMJKBEWxhXU+4nOWtSlZ+6P4xSIIDGi5m5hrcaLDKFZQk+qtlg7oQ3QW5xFDzIRvUEltnfNZ3905DDDmadkON1HBM4g7baj4KPh3ag1B85HDALkcaMfGDiwH+pteusjWDmtIxspLJcY31z4XfVDps4LZ7G9YUH4yoa6Tt2U3eodZ+hHE2mBQ==" Serie="A" SubTotal="140992.18" TipoDeComprobante="I" Total="163550.93" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="INFORMáTICA HAGAG SA DE CV" RegimenFiscal="601" Rfc="IHA000314A38" />
+  <cfdi:Receptor Nombre="Factura Generica" Rfc="XAXX010101000" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="30" ClaveProdServ="60101101" ClaveUnidad="E48" Descripcion="SERVICIO DE TRANSPORTE DE PERSONAL 1ER TURNO" Importe="36375.000000" Unidad="Kilogramo" ValorUnitario="1212.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36375.000000" Importe="5820.000000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="30" ClaveProdServ="60101101" ClaveUnidad="E48" Descripcion="SERVICIO DE TRANSPORTE DE PERSONAL 2DO TURNO" Importe="36375.000000" Unidad="Kilogramo" ValorUnitario="1212.50">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36375.000000" Importe="5820.000000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="30" ClaveProdServ="60101101" ClaveUnidad="E48" Descripcion="SERVICIO DE TRANSPORTE DE PERSONAL 1ER TURNO" Importe="27570.000000" Unidad="Kilogramo" ValorUnitario="919.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27570.000000" Importe="4411.200000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="30" ClaveProdServ="60101101" ClaveUnidad="E48" Descripcion="SERVICIO DE TRANSPORTE DE PERSONAL 2DO TURNO" Importe="27570.000000" Unidad="Kilogramo" ValorUnitario="919.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27570.000000" Importe="4411.200000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="23" ClaveProdServ="60101101" ClaveUnidad="E48" Descripcion="SERVICIO DE TRANSPORTE DE PERSONAL CAMIONETA" Importe="13102.180000" Unidad="Kilogramo" ValorUnitario="569.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13102.180000" Importe="2096.348800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="22558.75">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="22558.75" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-01-23T19:35:32" NoCertificadoSAT="00001000000405607284" RfcProvCertif="FCG840618N51" SelloCFD="gwnlQR28T4ri+UZ/sGGRamGdT3oF8TT5P2ehbGOhcsPSxxWghBVtzPFokzm42ppcIn6v29F8VGqUhIV6Jbqa6gp1v1TbQ2c9Vuh6GJwIQdBwNlGgQiZrV4CVNmyQu6kCgE+7vT2vOMsQR2s9E98ydoe2UNUXHPXbBuKMJKBEWxhXU+4nOWtSlZ+6P4xSIIDGi5m5hrcaLDKFZQk+qtlg7oQ3QW5xFDzIRvUEltnfNZ3905DDDmadkON1HBM4g7baj4KPh3ag1B85HDALkcaMfGDiwH+pteusjWDmtIxspLJcY31z4XfVDps4LZ7G9YUH4yoa6Tt2U3eodZ+hHE2mBQ==" SelloSAT="J5kSg3EU7Tm6rvhkUqKWHlKfpj9Vd6GGxnJPgtoNoIJ3KZ3PIX7ITdCBvRszrNEMm1dsfRkkC2wuaXifQr59LV7+wdh9zTcx8b2a5uMny7PssedTlGN/+DZRBpUH0Ur4P1HQLQp1xbG5lmBieRQz3RSu8MTEUTBxs8jxTa3fxNtrfHmCPm9n6unSH8KWZc5cV9aOD4EnKEmLTqZu1lGLfwvjvvtkZ5NQqKCCtj0yJzRFEerlave01UpVoqpfon7TbyWBAr3jEOu+qEDIEaWXJ7pwccjp5bJRyoTXkJyk5ihyeudH/abPP+jqZvQVgMhQHqgpAClY1v1hPcDu0bwXdg==" UUID="930B4925-687B-4AEA-8E69-077D2646E7A5" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

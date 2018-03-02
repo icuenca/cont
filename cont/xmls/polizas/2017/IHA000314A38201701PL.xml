@@ -1,0 +1,8 @@
+<PLZ:Polizas xsi:schemaLocation='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo/PolizasPeriodo_1_3.xsd' Version='1.3' RFC='IHA000314A38' Mes='01' Anio='2017' TipoSolicitud='AF' NumOrden='VVV5678876/54' xmlns:PLZ='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<PLZ:Poliza NumUnIdenPol='1-2017-01-1' Fecha='2017-01-18' Concepto='prueva'>
+<PLZ:Transaccion NumCta='102.00.001' DesCta='BANAMEX' Concepto='prueva' Debe='100.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='293.8024' DesCta='SUELDO POR págar' Concepto='prueva' Debe='0.00' Haber='100.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-01-2' Fecha='2017-01-05' Concepto='a'>
+<PLZ:Transaccion NumCta='102.00.001' DesCta='BANAMEX' Concepto='a' Debe='50.00' Haber='0.00' >
+<PLZ:CompNal UUID_CFDI='CDD087A9-1C5B-444D-98F1-F5D0A662523A' RFC='DSA130408AM2' MontoTotal='53.22' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102.00.001' DesCta='BANAMEX' Concepto='a' Debe='0.00' Haber='50.00' ></PLZ:Transaccion></PLZ:Poliza></PLZ:Polizas>

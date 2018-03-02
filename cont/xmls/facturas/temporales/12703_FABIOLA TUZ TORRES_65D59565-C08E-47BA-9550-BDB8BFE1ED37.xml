@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIE/zCCA+egAwIBAgIUMDAwMDEwMDAwMDAzMDc2MDE3MzIwDQYJKoZIhvcNAQELBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA3MTYxNjU0MzZaFw0xOTA3MTYxNjU0MzZaMIHHMSMwIQYDVQQDExpJTkZPUk1BVElDQSBIQUdBRyBTQSBERSBDVjEjMCEGA1UEKRMaSU5GT1JNQVRJQ0EgSEFHQUcgU0EgREUgQ1YxIzAhBgNVBAoTGklORk9STUFUSUNBIEhBR0FHIFNBIERFIENWMSUwIwYDVQQtExxJSEEwMDAzMTRBMzggLyBHVUFFNzgwNTAxUEg4MR4wHAYDVQQFExUgLyBHVUFFNzgwNTAxSEpDUkNWMDQxDzANBgNVBAsTBk1BVFJJWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIlfa4AY3FIUao4Jqz9Iqn9iLuX/0GHwVAgdr4SUBGRogJfbnvkiklJlZidgaf7YG7W/Km2PGQxV3B1TRIu1DMq1WZtiedGWmNGHwyVF2EhqV1v+fBu38Z9FwJ64jDbT/o59nVq2mZ0/1FIhzGajHAzQwVNGCEeW0YgJQL3l3BhMAcPvM94I9mxTsoawUYogZ6cPJOA8AXZ4AcXA6RT25rVdBQuSUnPv6Eh8NQJUhAkeindDY/0Urtg28bYSxT/o2ewbxn4p48pIDUdVz+v6ZtQLKgzGumOpE2+ZoHUj18V3H1k9vvMnB3MboC0gQ667ON5kF5POYm4hdUCNrxHTsV8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggEBAMX//ZqusHh58soKTZpRBdsEQpts3eWw3GnStnuDEUJAs+WzSmpEedPrU4s3KFBDELkgeMCu6o5KSDB1nKnA54tKJnFpw7OUAVWNB4pE6UL1IhJMWv+KdWF5kQmL4gI8BBobboBRwXdp/T9zR3/9ByvTHHuBg+4Tm5TDiSTRIbj0tZREGk3cUF3cJcN9SXflLk9VNCic8H542Fla/Ef79mhpMfHACABweTKweeAtrFuM/VHjm6vEeFRNkr6GzO8byZ+bw1nOK0Hcjsde0UB7ZrFvnuh/LGL8cA3s0NFkqI2Hqoa4JdDLXTvpxfzbgS97m2nhWCZojUiJyUPCR+jom9s=" Descuento="2581.90" Fecha="2018-01-18T11:47:51" Folio="12703" FormaPago="03" LugarExpedicion="44470" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000307601732" Sello="L6B9ZR10n0lUTIvRrebBigqkQtkfG5Rv1OvB96kSJ/utKfOo8q4nPBCUfXJC+ohEbXijeZRbi7hbLmqk24abyUmgLTHHtVGnuNnAP5FDVy4Y2nlxOk7E94peZsr+aywEoHRQvwZR8gegsLjfFtcUDiPr0vI3dHTljcNfb8bwaJwiA8kR/1OBOvLWmQ6trJ/yW0VAcgBSvqUmm1wddMhS3HXTbeYqWWJapbVY4g6p8Bj7Clc3mmOMa85f8dbYg/Tw2KcCkezTl9rPF6OAGUYhXi4BwU8URfgydwp+asJB3TqNhHzFcVC/bCQObZtV+6AnG3Tu+DRpRWUCSoiTUTl+yQ==" Serie="F" SubTotal="6883.62" TipoDeComprobante="I" Total="4990.00" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="INFORMáTICA HAGAG SA DE CV" RegimenFiscal="601" Rfc="IHA000314A38" />
+  <cfdi:Receptor Nombre="FABIOLA TUZ TORRES" Rfc="TUTF950214B28" UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="43231508" ClaveUnidad="XUN" Descripcion="APPMINISTRA EMPRESARIAL ANUALIDAD" Descuento="2581.89" Importe="5163.790000" Unidad="Unidad" ValorUnitario="5163.78">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2581.895000" Importe="413.103200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="80101507" ClaveUnidad="E48" Descripcion="CONSULTORIA INTEGRAL REMOTA 10 HORAS" Importe="1719.830000" Unidad="Unidad de servicio" ValorUnitario="1719.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1719.830000" Importe="275.172800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="688.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="688.276000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-01-18T11:57:55" NoCertificadoSAT="00001000000405607284" RfcProvCertif="FCG840618N51" SelloCFD="L6B9ZR10n0lUTIvRrebBigqkQtkfG5Rv1OvB96kSJ/utKfOo8q4nPBCUfXJC+ohEbXijeZRbi7hbLmqk24abyUmgLTHHtVGnuNnAP5FDVy4Y2nlxOk7E94peZsr+aywEoHRQvwZR8gegsLjfFtcUDiPr0vI3dHTljcNfb8bwaJwiA8kR/1OBOvLWmQ6trJ/yW0VAcgBSvqUmm1wddMhS3HXTbeYqWWJapbVY4g6p8Bj7Clc3mmOMa85f8dbYg/Tw2KcCkezTl9rPF6OAGUYhXi4BwU8URfgydwp+asJB3TqNhHzFcVC/bCQObZtV+6AnG3Tu+DRpRWUCSoiTUTl+yQ==" SelloSAT="2/cakskz35L9M6ou+xAOsX0fZASSe8G1zDDxbQRovxrexIqeonjngUHbT67ss3xCPoGSH9u/ENuONbxxAkM23v2ZXCXGoAoIxTjI2ET/NgP4/K30guSFxd09gsln5h0aTZc5SnkR85vHu0ydcE4PVRDj0odS9jZE0gQIG+VtuQ0bSTmTVaYUn4xQ9PUL1+WKdC7oAaq5MofzsioY+qdbG+2kK5fYIegkmqI0a1zQ+Ceb17IsGFQ+dDK6SyMCA5NSovVn5FitIqXPGWUN6h7kIJkpr8EJga5UertsK2N6UBazz2Q9sXA7JY9cSM5kIQitepR351ezvgfKAkwK2n9skw==" UUID="65D59565-C08E-47BA-9550-BDB8BFE1ED37" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

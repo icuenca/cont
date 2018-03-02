@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:pago10="http://www.sat.gob.mx/Pagos" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="Inmediatamente" Fecha="2018-02-01T18:06:26" Folio="1357377" FormaPago="99" LugarExpedicion="11000" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000408249186" Sello="QQqphPzV74O/nYaq598MpIyBYhaoRpzBvinA15pv/RqUS6TfY3Acp66aQK9n0zo6rW37TbxouapI/b7Pe5tq1LVUxcoAarTxaRJLn8vLQzLfZaKnHepVQDI9vpD4Vr+RLgLEjDeXUgiA7gYYpsgbGMtzW+Bx53LnSod8ER2iIBfnOk1dooOmZnCC3sDHEtUmPaYDuQyxnnODOUShyqmfgURS1RFD8VNN0SsgBtDNXrI6xDmrijDCQtJWQVGe2+Ftuy7/gOW0Z6c4MDu9Q3uMFPRfACyCyiJhbAQ8QI/EXiVh17wJvWIhE3RRzpgFAfc5YEzYLIs7P8kUi9H9894xyA==" Serie="FCBE" SubTotal="12828.3" TipoCambio="1" TipoDeComprobante="I" Total="14880.83" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+    <cfdi:CfdiRelacionados TipoRelacion="07">
+        <cfdi:CfdiRelacionado UUID="3A552B14-36CA-494C-9B8E-379EB0B114F2" />
+        <cfdi:CfdiRelacionado UUID="6DE6EDCA-DDBF-4F6E-A3E0-A64CE00211A0" />
+        <cfdi:CfdiRelacionado UUID="EF276343-865E-422F-9A59-7378B8359A27" />
+        <cfdi:CfdiRelacionado UUID="16F55043-5C20-4ACA-8B82-9421C958C8EE" />
+        <cfdi:CfdiRelacionado UUID="50943A59-7291-4C81-B6A5-76A8557DEEF5" />
+        <cfdi:CfdiRelacionado UUID="EB042F45-C641-4D6F-8F9D-616F56CE3340" />
+        <cfdi:CfdiRelacionado UUID="54D16437-BA61-41A2-A4EF-0D3CA75A6E39" />
+    </cfdi:CfdiRelacionados>
+    <cfdi:Emisor Nombre="Google Operaciones de México, S. de R.L. de C.V." RegimenFiscal="601" Rfc="GOM0809114P5" />
+    <cfdi:Receptor Nombre="Appministra" Rfc="IHA000314A38" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="82101603" ClaveUnidad="E48" Descripcion="Campaña de Adwords de Google" Importe="12828.3" Unidad="Servicio" ValorUnitario="12828.3">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="12828.3" Importe="2052.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="2052.53">
+        <cfdi:Traslados>
+            <cfdi:Traslado Importe="2052.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    
+<cfdi:Complemento><tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="03E58814-FABA-4800-B8DB-825ECE7A7566" FechaTimbrado="2018-02-01T20:09:03" SelloCFD="QQqphPzV74O/nYaq598MpIyBYhaoRpzBvinA15pv/RqUS6TfY3Acp66aQK9n0zo6rW37TbxouapI/b7Pe5tq1LVUxcoAarTxaRJLn8vLQzLfZaKnHepVQDI9vpD4Vr+RLgLEjDeXUgiA7gYYpsgbGMtzW+Bx53LnSod8ER2iIBfnOk1dooOmZnCC3sDHEtUmPaYDuQyxnnODOUShyqmfgURS1RFD8VNN0SsgBtDNXrI6xDmrijDCQtJWQVGe2+Ftuy7/gOW0Z6c4MDu9Q3uMFPRfACyCyiJhbAQ8QI/EXiVh17wJvWIhE3RRzpgFAfc5YEzYLIs7P8kUi9H9894xyA==" NoCertificadoSAT="00001000000404477432" SelloSAT="Sp36nLI0BEYQJFxWjq9vVMI8Afw9zD2iIHEVg+rkYfJsScn1myRPNuAUOFrZhbiuy1z+ZizxY0ZSwX+9gg23MA5vkcJRnInCo/A0zH5RNr92fw7XZZ8jm2II6RAszvKH4Q/ehbOPASq6okUll4KNFKgMseNuF3cKJFjPGV3st75yjDN/FYIuLx11qfMzjkoegjP3iTfbWZcmW1f13gqNej/0h4soHlpaN2glNV9Czw7FsWiVMOAiMAylcUy2P43t6uEfFbHm6+/Ls+gB1Tu/VjPcPAuYpNyV+xnEWG+3lNxf5Gp3kjhejskyMpM0xrdu8ynI/spawhLLj/oo62P6Zw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

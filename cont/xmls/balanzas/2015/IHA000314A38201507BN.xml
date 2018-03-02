@@ -1,0 +1,9 @@
+<BCE:Balanza xsi:schemaLocation='www.sat.gob.mx/esquemas/ContabilidadE/1_1/BalanzaComprobacion http://www.sat.gob.mx/esquemas/ContabilidadE/1_1/BalanzaComprobacion/BalanzaComprobacion_1_1.xsd' Version='1.1' RFC='IHA000314A38' Mes='07' Anio='2015' TipoEnvio='N' xmlns:BCE='www.sat.gob.mx/esquemas/ContabilidadE/1_1/BalanzaComprobacion' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+			<BCE:Ctas NumCta='121.3245' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='122.3433' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='123.4432' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='999.9999' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='314.5555' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='456.3221' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='4.1.3' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' />
+			<BCE:Ctas NumCta='411.0001' SaldoIni='0.00' Debe='0.00' Haber='0.00' SaldoFin='0.00' /></BCE:Balanza>

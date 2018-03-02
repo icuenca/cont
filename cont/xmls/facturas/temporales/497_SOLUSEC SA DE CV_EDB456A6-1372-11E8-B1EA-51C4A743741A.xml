@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="A" Folio="497" Fecha="2018-02-15T17:41:36" Sello="Uxn7zl/pXmTnTELmB35ysSsDkl8rO8kuYPggtS/5WmpmNbgU9Fuvxf7DRRgd5Jm46FsUHaMbFwxrMQaUjy6UrQaU+0JL442Wj7IqlEU78HMlFqc6ye2T9DqlU0SNzMPIEC4jdyCIqdOm+FsQaCCUHDD4mwLgRLl8JLl3CyzvfBE=" FormaPago="03" NoCertificado="00001000000307066979" Certificado="MIIEXTCCA0WgAwIBAgIUMDAwMDEwMDAwMDAzMDcwNjY5NzkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTA1MTMxODA2MzdaFw0xOTA1MTMxODA2MzdaMIGpMRkwFwYDVQQDExBTT0xVU0VDIFNBIERFIENWMRkwFwYDVQQpExBTT0xVU0VDIFNBIERFIENWMRkwFwYDVQQKExBTT0xVU0VDIFNBIERFIENWMSUwIwYDVQQtExxTT0wxNTA0MDkzRDUgLyBHVVJFODgwMTIzRFk4MR4wHAYDVQQFExUgLyBHVVJFODgwMTIzSEpDWk1EMDUxDzANBgNVBAsTBlVOSURBRDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAh6Pdekkgs2Cm2m74aFMFx01FhzFa6pWSerl5c7MyGkyNpwfCY4mUy3etnr8nTkK1ZC0qumrzOkuoEbaJkVd0przaJZWgnmp2UQSgMPUMvNCKdbXDrihxdR13xF+qMpPbO6wUsbo7B45lESLEz5rs1NWyINL5HCBbzf9Dy+wmXEkCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADHk+pAbHW15OqKM/m+Z69rvefOy5UtEfAImo4kmegB3a88+jSD5X1bwRQ2P75tAKxjCGOOxp9BYU0Eqo4LQsmC3c1jS0OiVBxMonizHtkMcawdJf99y5+3PCu75XlplFjAwT3aMDNak3WEXmkVcsidlhZUzG6PuJjr6KOi1duuoYNh4bVOZheyBXNk0m0Xju43iuMrQTnhP/cabgdedCiNA0cpZmW7izxZ8uMT6Ae+EP6uWRp4EQfBotgRYfitS7durUE2K6QbJCd7m+/xSuYAoFwhsbdbo1VZI0CGkarGoWvCO4MHVBT2AfC7ud+ahkMG13pog+bQSpaCJGOkhnxM=" CondicionesDePago="CONTADO" SubTotal="151548.98" Moneda="MXN" Total="175796.82" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="44160">
+  <cfdi:Emisor Rfc="SOL1504093D5" Nombre="SOLUSEC SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IHA000314A38" Nombre="INFORMATICA HAGAG, SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="80101500" NoIdentificacion="H01" Cantidad="1" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="ASESORIA ADMINISTRATIVA DE GESTION Y CONTROL EMPRESARIAL" ValorUnitario="151548.98" Importe="151548.98">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="151548.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24247.8368" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="24247.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24247.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="EDB456A6-1372-11E8-B1EA-51C4A743741A" FechaTimbrado="2018-02-16T17:41:36" RfcProvCertif="NLC091211KC6" SelloCFD="Uxn7zl/pXmTnTELmB35ysSsDkl8rO8kuYPggtS/5WmpmNbgU9Fuvxf7DRRgd5Jm46FsUHaMbFwxrMQaUjy6UrQaU+0JL442Wj7IqlEU78HMlFqc6ye2T9DqlU0SNzMPIEC4jdyCIqdOm+FsQaCCUHDD4mwLgRLl8JLl3CyzvfBE=" NoCertificadoSAT="00001000000403126814" SelloSAT="Xp5+nH/Hk2gQhJ5Lgd/IZ4yfGJDyaA9dkCHEx/zOUf16qtJCvrNFgWaQzvwD3Q36HL6YQy4qqW4xrfiOQu3rzl39kpBvQPujZHfn/Kh88IOL2hVs1C/Kyqy5h2vymyA+r8G2oPEzVVt5d7BgClUVHeQpQEuxXkkubCq4xNuR/txBpFZbFyeA4q+L3qjIiJJC5NNq5I3oobtoDsDLwc8UxymZm9YIlXSbScsREAoy9yJ97ghd0bN1BjZ03EdKbUyydb9mDtFD1SihdUPp0eRJ1eL7LYpigRBQsndrsoi1Cr9CVgdjEpSGbAc+0FytJWwtMdDqQaDfVWfNCkw7upsmyg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

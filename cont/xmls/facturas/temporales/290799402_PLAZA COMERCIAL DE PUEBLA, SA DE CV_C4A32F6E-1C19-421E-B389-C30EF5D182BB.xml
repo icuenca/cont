@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Version="3.3" Serie="PUCAPV" Folio="290799402" Fecha="2018-02-08T15:10:15" Sello="XgiFVM24RcjVrgCtkJ79acpZ4LsxOCbxqm82iILXDAQaE29H75Vv+8hXzNK/L0XuBdhT/ndJ2zipSkRKtjTDTPjvBfmpSBAEbGq5VFup8Rr7ibNgWYD1UyoHPibdgi3ETnMh5LrpS1OoY7lwL1HQyIsmxmTGx4eMzkrJxSF3oVC3RTmXhtoSqVcA23JeJfklgkJkpOZ3EXaRK8Q5IN9Lnf9dyHzmEkXez0tVW6VRLQ0aNlTVlD84TGcnwGC3/lgeJphE+WyI2BbH2F/cj/bFjhXLQtFCkN/LDZmFP4aRzTSCkE9iaqJYZBbfBYHE8IOUuK+xAD2mYJkyMYGlfxFt7Q==" FormaPago="01" NoCertificado="00001000000400452191" Certificado="MIIGPjCCBCagAwIBAgIUMDAwMDEwMDAwMDA0MDA0NTIxOTEwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTUwOTI0MTQ1ODMwWhcNMTkwOTI0MTQ1ODMwWjCB3jErMCkGA1UEAxMiUExBWkEgQ09NRVJDSUFMIERFIFBVRUJMQSBTQSBERSBDVjErMCkGA1UEKRMiUExBWkEgQ09NRVJDSUFMIERFIFBVRUJMQSBTQSBERSBDVjErMCkGA1UEChMiUExBWkEgQ09NRVJDSUFMIERFIFBVRUJMQSBTQSBERSBDVjElMCMGA1UELRMcUENQODcwOTAzM0syIC8gTU9HRjUzMDQwNzJSNTEeMBwGA1UEBRMVIC8gTU9HRjUzMDQwN0hERk5UUjA2MQ4wDAYDVQQLEwVQQ1BJRjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKG8n1/Zlf4cBXCyw6qWWiMlbU1mosmuWOz975uQusfpmeTAYSpa/kssU/EawjkzKMIVVdQJq/QJ6z77aiTn/QuTRnv5nCgtz0JnhpU3vLVsqslor2mgI8wmrLXudeFmwaFSrUukBMoHn0R9m9UpoCN+smyUAo3x/hjlAk7xUPYSA1bBR+4Wi9FKL/OJKdJCDLUIYjtgxwhO0B3fkC06Ag9TMZWgW9mkjYt/ATgh2st/pER0HBTXpHRxPeBtHCbtE8/0KfC/bFOfuyHoOCsJq0gKR3rCdoVXUZTHGCtdaUYQCs7tERyAnMhVHMtbjtKJo/HRZc04MChhRIjxfhxR+c8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAJz4MtvgqNJsZx4SHmrSBacq8cqXs5rR3ZHdHsHc/R2W5SmvibHPL9kFsbylqm+czNYjypXk3WlcgYlMfjpfgLhQRvPepbl4DVV6SKWtl6BzWUS9ApUJ8K0953pDB82nfSQb0UTpVVYlm8wW2f56d1sciAbSYv/ENW5PFkTdKkUYJKqO5MEzriAuAriKa+nbn0WjxVQmvZhDnVZOdI0YuQKuTXlrnX2rEt15LuXpPpg2cHlTZTMmrbWg/7hm/pY+P/432GaDNBhPMjhY+NE4pIyvQ3zaAakbHpJCwoU4UbrOKMG3BO+ANmM4TfGbSzFqGPKC4HeARUZeYF3r/fhHXTWigW3M+Bbv50jK6OlZ0zR+iy5DC8VUe6UnUBxRFWp5SIasFzCL2V25EpatjC15aQN+jfFMRw2aEY9OUycavFG+CJOakZi2fdnq7nLvZ1eSgbmuItX2qpDfkBdNMCNPIJiERtTvqOzYGjKpWYX0l3xxGPGGOeKLdc9+pyQ4B34d8T3sKl0vLbG5o6NrkmtHwd43pvna74qIIBcqeq1SScrCPuEYRSUZlJVay0XxGRYqcTlBtc6Rr5Wt5UpWRjhoeiumZd5KlDUXgdagsarec85aWP9Wyogz8NBr2byf/U/fif3pucCkvDsUR0yKQ3/IIuw95qoClDSfXJEc5TSs234G" CondicionesDePago="CONTADO" SubTotal="33.62" Moneda="MXN" TipoCambio="1" Total="39.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="72050" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="PCP8709033K2" Nombre="PLAZA COMERCIAL DE PUEBLA, S.A. DE C.V." RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IHA000314A38" Nombre="INFORMATICA HAGAG SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="11036" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PAN, GALLETAS Y PASTELITOS DULCES-PAN ELOTE 100 GRS" ValorUnitario="13.79" Importe="13.79">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.21" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50201700" NoIdentificacion="06231" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="CAFÉ Y TÉ-ESPRESSO AMERICANO 12 OZ" ValorUnitario="19.83" Importe="19.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.17" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="5.38">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.38" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="C4A32F6E-1C19-421E-B389-C30EF5D182BB" FechaTimbrado="2018-02-08T15:11:16" RfcProvCertif="INT020124V62" SelloCFD="XgiFVM24RcjVrgCtkJ79acpZ4LsxOCbxqm82iILXDAQaE29H75Vv+8hXzNK/L0XuBdhT/ndJ2zipSkRKtjTDTPjvBfmpSBAEbGq5VFup8Rr7ibNgWYD1UyoHPibdgi3ETnMh5LrpS1OoY7lwL1HQyIsmxmTGx4eMzkrJxSF3oVC3RTmXhtoSqVcA23JeJfklgkJkpOZ3EXaRK8Q5IN9Lnf9dyHzmEkXez0tVW6VRLQ0aNlTVlD84TGcnwGC3/lgeJphE+WyI2BbH2F/cj/bFjhXLQtFCkN/LDZmFP4aRzTSCkE9iaqJYZBbfBYHE8IOUuK+xAD2mYJkyMYGlfxFt7Q==" NoCertificadoSAT="00001000000404598147" SelloSAT="eQjiQvMk2qmwOB1w1zq1n5E28nIPmvfApPViwvr3+rLijTEDxmz9lnScM8W79Dbe2M8KeynW0KSl7qKjcUEBEw9fCZe0fvxy6yS2OBeOJehMDkNLOFNZvs4fCduDoPP9+IshNYuKEe0z2gBD2xwuEJxm9U389oP7c7EjtBms5lXnsD6eHR7N5v0cowzhb6OB3UJ3rXpvG8wyYLltVm8ZvLB4AWUl+VQ8SoEvsWr0ggFGQU+qoOeQ6j54/JvjFnO5vuX1W1/Vme/qH+5qHiVsXB5B/CY4vT48xeyZHV0DoPSKq5FJcQtXMd2Ub8kJCt8FsEha3ZjWHjhT8xy4LGBghA==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

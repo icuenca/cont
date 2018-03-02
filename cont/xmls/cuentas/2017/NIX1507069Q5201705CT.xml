@@ -1,0 +1,367 @@
+<catalogocuentas:Catalogo Anio='2017' Mes='05' RFC='NIX1507069Q5' Version='1.3' xmlns:catalogocuentas='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/CatalogoCuentas' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/CatalogoCuentas http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/CatalogoCuentas/CatalogoCuentas_1_3.xsd'>
+<catalogocuentas:Ctas CodAgrup='301' NumCta='000-031-000' Desc='CAPITAL SOCIAL' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='303' NumCta='000-032-000' Desc='Reserva Legal' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='304' NumCta='000-033-000' Desc='RESULTADO EJERCICIOS ANTERIORES' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='305' NumCta='000-034-000' Desc='Resultado del Ejercicio' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='305.02' NumCta='000-034-001' Desc='Resultado del Ejercicio' SubCtaDe='000-034-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='101' NumCta='101-000-000' Desc='Caja' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='101.01' NumCta='101-001-000' Desc='Caja y efectivo' SubCtaDe='101-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='102' NumCta='102-000-000' Desc='BANCOS' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='102.01' NumCta='102-100-100' Desc='BANCO VE POR MAS SA' SubCtaDe='102-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='102.01' NumCta='102-100-200' Desc='BANCO SANTANDER SA' SubCtaDe='102-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='105' NumCta='103-000-000' Desc='Clientes' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='106' NumCta='104-000-000' Desc='DOCUMENTOS POR COBRAR' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107' NumCta='105-000-000' Desc='DEUDORES DIVERSOS' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.01' NumCta='105-100-001' Desc='Rodriguez Diaz Julio Alfonso' SubCtaDe='105-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.01' NumCta='105-100-002' Desc='ISIS BARRAGAN IBARRA' SubCtaDe='105-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-100' Desc='Mario Garza (Credito Santander 3831-3)' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-200' Desc='Mario Garza (Bx+ 900807)' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-300' Desc='Mario Garza' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-400' Desc='Alejandra Orozco' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-500' Desc='Jessica Garza' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.02' NumCta='105-200-600' Desc='Josefina Garza' SubCtaDe='105-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.05' NumCta='105-500-001' Desc='Diaz Fallad Hassan Romar' SubCtaDe='105-500-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.05' NumCta='105-500-002' Desc='Rene Porfirio Gutierrez' SubCtaDe='105-500-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.05' NumCta='105-500-003' Desc='CONSTRUVAL' SubCtaDe='105-500-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='107.05' NumCta='105-500-099' Desc='VARIOS' SubCtaDe='105-500-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='118' NumCta='106-000-000' Desc='Impuestos Acreditables Pagados' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='118.01' NumCta='106-100-000' Desc='Iva Acreditable Pagado' SubCtaDe='106-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='119' NumCta='107-000-000' Desc='IMPUESTOS ACREDITABLES POR PAGAR' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='119.01' NumCta='107-100-000' Desc='Iva Pendiente de Pagar' SubCtaDe='107-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='115' NumCta='108-000-000' Desc='Inventario' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120' NumCta='109-000-000' Desc='ANTICIPO A PROVEEDORES' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-001' Desc='HIQUEVA SA DE CV' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-002' Desc='Garza Garza Josefina' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-003' Desc='Productores de Marmol y Minerales Tecalitlan SC de' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.03' NumCta='109-100-004' Desc='MARIO GARZA GARZA' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-005' Desc='REX IRRIGACION DE JALISCO SA DE CV' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-006' Desc='TRACSA SAPI DE CV' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='120.01' NumCta='109-100-007' Desc='TERESITA DE JESUS ZAMORA JIMENEZ' SubCtaDe='109-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='113' NumCta='110-000-000' Desc='IMPUESTOS A FAVOR' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='113.06' NumCta='110-100-000' Desc='Subsidio al Empleo' SubCtaDe='110-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='113.01' NumCta='110-200-000' Desc='IVA a Favor' SubCtaDe='110-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='113.02' NumCta='110-300-000' Desc='ISR RETENIDO POR BANCOS' SubCtaDe='110-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='185' NumCta='111-000-000' Desc='Impuestos Anticipados' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='185.01' NumCta='111-100-000' Desc='Pagos Provisionales ISR' SubCtaDe='111-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='155' NumCta='120-000-000' Desc='MOBILIARIO Y EQUIPO DE OFICINA' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='155.01' NumCta='120-100-000' Desc='Mobiliario de oficina' SubCtaDe='120-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='171' NumCta='121-000-000' Desc='DEPRECIACION ACUMULADA MOB Y EQ. OFICINA' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='171.04' NumCta='121-100-000' Desc='Depreciacion Acum. de Mob y Eq. de Oficina' SubCtaDe='121-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='154' NumCta='122-000-000' Desc='Equipo de Transporte' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='154.01' NumCta='122-100-000' Desc='Equipo de Transporte' SubCtaDe='122-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='171' NumCta='123-000-000' Desc='Depreciación Acumulada Equipo Transporte' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='171.03' NumCta='123-100-000' Desc='Depreciacion Acum. Eqpo de Transporte' SubCtaDe='123-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='156' NumCta='124-000-000' Desc='EQUIPO DE COMPUTO' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='156.01' NumCta='124-100-000' Desc='EQUIPO DE COMPUTO' SubCtaDe='124-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='171' NumCta='125-000-000' Desc='DEPRECIACION ACUMULADA EQ. COMPUTO' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='171.05' NumCta='125-100-000' Desc='Depreciacion Acum. Eqpo de Computo' SubCtaDe='125-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='153' NumCta='126-000-000' Desc='MAQUINARIA Y EQUIPO' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='153.01' NumCta='126-100-000' Desc='Maquinaria y Equipo' SubCtaDe='126-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='171' NumCta='127-000-000' Desc='DEPRECIACION ACUMULADA MAQUINARIA Y EQUIPO' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='171.02' NumCta='127-100-000' Desc='DEPRECIACION ACUMULADA DE MAQUINARIA Y EQUIPO' SubCtaDe='127-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='151' NumCta='128-000-000' Desc='Terrenos' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='151.01' NumCta='128-100-000' Desc='Terrenos' SubCtaDe='128-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158' NumCta='130-000-000' Desc='ARBOLES EN PRODUCCION' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-100-001' Desc='ARBOLES' SubCtaDe='130-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-100-002' Desc='MATERIAL' SubCtaDe='130-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-100-003' Desc='LABORES CULTURALES' SubCtaDe='130-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-100-004' Desc='FLETE ARBOLES' SubCtaDe='130-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-100-005' Desc='PREPARACION DE TERRENO AGRICOLA' SubCtaDe='130-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-200-001' Desc='FERTILIZANTES NPK' SubCtaDe='130-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-200-002' Desc='FERTILIZANTES FOLIARES' SubCtaDe='130-200-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-300-001' Desc='Herbicida' SubCtaDe='130-300-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-300-002' Desc='Insecticida' SubCtaDe='130-300-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='158.01' NumCta='130-300-003' Desc='Biologicos' SubCtaDe='130-300-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117' NumCta='140-000-000' Desc='INSTALACIONES EN TERRENOS ' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-100-000' Desc='Instalacion de Luz' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-200-000' Desc='Sistema de Riego' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-300-000' Desc='Pozo Profundo' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-400-000' Desc='Reservorio de Agua' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-500-000' Desc='Cerca' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-600-000' Desc='Caminos' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='117.01' NumCta='140-700-000' Desc='BODEGA' SubCtaDe='140-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='184' NumCta='143-000-000' Desc='Deposito en Garantía' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='184.01' NumCta='143-100-000' Desc='Depositos de Fianzas' SubCtaDe='143-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='184.02' NumCta='143-200-000' Desc='Depositos de Arrendamiento de Bienes Inmuebles' SubCtaDe='143-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='184.03' NumCta='143-300-000' Desc='Otros Depositos en Garantía' SubCtaDe='143-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='201' NumCta='200-000-000' Desc='PROVEEDORES' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-001' Desc='Aguilar Diaz Claudio' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-002' Desc='Promotora Hotelera Leal SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-003' Desc='Fer-Petro S de RL de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-004' Desc='Operadora OMX SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-005' Desc='Mendoza Martinez Virginia Consuelo' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-006' Desc='Impulsora de Servicio y Turismo Caltzonzin SA de C' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-007' Desc='Sindicato de la COR del Estado de Jalisco' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-008' Desc='Autoservicio GASHR SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-009' Desc='La Casa De Los Patios SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-010' Desc='Proredes SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-011' Desc='Isonomia Legal SC' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-012' Desc='Corporativo Begonia SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-013' Desc='Industrial Garmisa SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-014' Desc='Construval SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-015' Desc='Grupo Constructor Cuevas SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-016' Desc='Landeros Garcia Anwar' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-017' Desc='Avila Uresti Francisco Fidel' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-018' Desc='Sociedad Inmobiliaria Hotelera de Mexico SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-019' Desc='RSM Bogarin SC' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-020' Desc='Lexiz Comercializacion de Alto Impacto S de RL de' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-021' Desc='Maquinaria Agricola Robledo S de RL de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-022' Desc='Montes Lopez Jose Luis' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-023' Desc='Hiqueva SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-024' Desc='Vazquez Molina Alejandro' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-025' Desc='Productores de Marmol y Minerales Tecalitlan SC de' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-026' Desc='Fabricas Monterrey SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-027' Desc='La Tiendita del Barra SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-028' Desc='Anguiano Tejada Miguel' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-029' Desc='Guardabox SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-030' Desc='Maquinaria y Herramientas Prof. de Zamora SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-031' Desc='Combu-Express SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-032' Desc='CA Imagen Empresarial SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-033' Desc='Energeticos Plus SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-034' Desc='Servicio ZZVV SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-035' Desc='Martinez Diaz Lisbet Liliana' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-036' Desc='Utilizacion Vehicular Al Maximo SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-037' Desc='Office Depot De Mexico SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-038' Desc='Home Depot Mexico S De RL De CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-039' Desc='Inmobiliaria Plaza La Fuente de Tapalpa SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-040' Desc='Organizacion Autoexpress SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-041' Desc='Orozco Rosales Susana' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-042' Desc='AGQ Labs &amp; Tech. Mexico SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-043' Desc='Productora de Fertilizantes del Noroeste SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-044' Desc='Laboratorios Master de Mexico SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-045' Desc='APELSA Guadalajara SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-046' Desc='DB Carriers SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-047' Desc='Zepeda Arquitectura y Desarrollos SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-048' Desc='Aguilar Diaz Juan Pablo' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-049' Desc='Chavez Cruz Teresa Margarita' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-050' Desc='Aguilar Beatriz Laura Lorena' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-051' Desc='Cabrera Ramirez Fernando' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-052' Desc='Proveedora Industrial Agricola y Automotriz SA de' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-053' Desc='Herrera Arias Alberto' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-054' Desc='Perez Mariscal Hector' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-055' Desc='Ceballos Fajardo Omar Armando' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-056' Desc='Alfaro Cardenas Roberto' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-057' Desc='DHL Express Mexico SA de CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-058' Desc='LóPEZ CAMPOS MARíA DE JESúS' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-059' Desc='PALAFOX LOPEZ JOSE' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-060' Desc='ZARE AGRHOS S DE RL DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-061' Desc='CERRILLOS CHAVEZ SERGIO' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-062' Desc='CORTEZ ANGUIANO MARTHA REGINA ' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-063' Desc='FLORES RAMIREZ TOMAS' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-064' Desc='GOMEZ GRANADOS MARIA ISABEL' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-065' Desc='AGROFRUT ZAPOTLAN SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-066' Desc='PETROMAX SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-067' Desc='OMNIBUS DE TEQUILA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-068' Desc='INSUMOS Y COMPLEMENTOS PARA EL PAN SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-069' Desc='TRAMO CARRETERO GUADALAJARA COLIMA' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-070' Desc='CONCESIONARIA AUTOPISTA GUADALAJARA TEPIC SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-071' Desc='RED ESTATAL DE AUTOPISTAS DE NUEVO LEON' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-072' Desc='FONDO NACIONAL DE INFRAESTRUCTURA' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-073' Desc='SOLANA MOTORS SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-074' Desc='AUTOZONE DE MEXICO S DE RL DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-075' Desc='GRUPO CONSTRUCTOR LG DEL PACIFíFICO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-076' Desc='GUSTAVO MISAEL CANTERO GARCíA' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-077' Desc='AGROQUIMICOS E IMPORTACIONES DE RIEGO LA HUERTA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-078' Desc='TERESITA DE JESUS ZAMORA JIMENEZ' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-079' Desc='PROYECTOS Y CONSTRUCCIONES DE INGENIERIA HIDRAULICA Y CIVIL SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-080' Desc='MARIO GARZA GARZA' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-081' Desc='CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-082' Desc='PUNTONOVA MATERIALES S DE RL DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-083' Desc='MEJIA CHAVEZ ARTURO' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-084' Desc='GASU FERREMATERIALES S DE RL DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-085' Desc='MARTINEZ CORDOVA JOSE' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-086' Desc='CONTROL DE PLAGAS MORTEX, S.A. DE C.V.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-087' Desc='AXTEL SAB DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-088' Desc='SISTEMAS EMPRESARIALES DABO S.A. DE C.V.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-089' Desc='SINUBE VALLE DE MEXICO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-090' Desc='SERVICIOS GASOLINEROS DE MEXICO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-091' Desc='CHAVEZ CHAVEZ ESTEBAN' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-092' Desc='MARIA DEL CARMEN MELLENDEZ' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-093' Desc='SERVICIOS ESPECIALIZADOS SENDA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-094' Desc='RED DE CARRETERAS DE OCCIDENTE SAB DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-095' Desc='ABC AEROLINEAS SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-096' Desc='CONCESIONARIA VUELA COMPAñIA DE AVIACION SAPI DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-097' Desc='AUTOMOTRIZ ROMUJA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-098' Desc='COMBUSTIBLES PALMA REAL SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-099' Desc='MANUEL MORENO HERNANDEZ' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-100' Desc='PROVEEDOR GLOBAL' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-101' Desc='GEOEX, S.A. DE C.V.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-102' Desc='FLORES MADRIZ ASESORES SC' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-103' Desc='JABALLI LTD SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-104' Desc='REX IRRIGACION DE JALISCO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-105' Desc='NESPRESSO MEXICO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-106' Desc='TRACSA SAPI DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-107' Desc='GRUPO NACIONAL PROVINCIAL SAB' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-108' Desc='COMERCIALIZADORA DALIRA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-109' Desc='INTERNATIONAL LEGAL CONSULTANCY, S.C.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-110' Desc='CONTRUHELT SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-111' Desc='GENERAL DE SEGUROS, S.A.B.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-112' Desc='AXA SEGUROS, S.A. DE C.V.' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-113' Desc='HECTOR LUIS GOMEZ GOMEZ' SubCtaDe='200-110-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-114' Desc='LAS VENTANAS DESARROLLOS SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-115' Desc='JAIME LUIS RICARDO BUENO' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-116' Desc='NEGOCIOS Y PROYECTOS SAPI DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-117' Desc='MAGUS SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-118' Desc='GAXCOPETROL DE MEXICO SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-119' Desc='GRANOS Y FORRAJES SAYULA SA DE CV' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-110-120' Desc='VARGAS LAW ABIDING GROUP, S.C' SubCtaDe='200-110-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='201.01' NumCta='200-120-001' Desc='AGROQUíMICOS E IMPORTACIONES DE RIEGO LA HUERTA SA DE CV' SubCtaDe='200-120-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205' NumCta='201-000-000' Desc='ACREEDORES DIVERSOS' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205.01' NumCta='201-100-001' Desc='Mario Garza (Gastos Diario)' SubCtaDe='201-100-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205.01' NumCta='201-100-002' Desc='Mario Garza (Gastos Tarjeta)' SubCtaDe='201-100-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205.01' NumCta='201-100-003' Desc='MARIO GARZA (PRESTAMOS)' SubCtaDe='201-100-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205.02' NumCta='201-200-001' Desc='Rodriguez Diaz Julio Alfonso' SubCtaDe='201-200-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='205.06' NumCta='201-600-001' Desc='Vielma Ordoñez Axel Eduardo' SubCtaDe='201-600-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='213' NumCta='202-000-000' Desc='IMPUESTOS POR PAGAR' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='213.01' NumCta='202-100-000' Desc='IVA Por Pagar' SubCtaDe='202-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='213.03' NumCta='202-200-000' Desc='ISR Por Pagar' SubCtaDe='202-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='213.04' NumCta='202-300-000' Desc='2% sobre Nómina' SubCtaDe='202-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='213.07' NumCta='202-400-000' Desc='Otros Impuestos por Pagar' SubCtaDe='202-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216' NumCta='203-000-000' Desc='IMPUESTOS RETENIDOS' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.01' NumCta='203-100-000' Desc='ISR Salarios' SubCtaDe='203-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.02' NumCta='203-200-000' Desc='ISR Asimilados' SubCtaDe='203-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.03' NumCta='203-300-000' Desc='ISR Arrendamiento' SubCtaDe='203-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.04' NumCta='203-400-000' Desc='ISR Servicios Profesionales' SubCtaDe='203-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.10' NumCta='203-501-000' Desc='IVA RET. FLETES' SubCtaDe='203-500-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.10' NumCta='203-502-000' Desc='IVA RET. ARRENDAMIENTO' SubCtaDe='203-500-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.10' NumCta='203-503-000' Desc='IVA RET. SERVICIOS PROFESIONALES' SubCtaDe='203-500-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.10' NumCta='203-504-000' Desc='IVA RET. DESPERDICIOS' SubCtaDe='203-500-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='216.11' NumCta='203-600-000' Desc='IMSS Obrero' SubCtaDe='203-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='208' NumCta='204-000-000' Desc='Impuestos Trasladados Cobrados' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='208.01' NumCta='204-100-000' Desc='Iva Trasladado cobrado' SubCtaDe='204-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='209' NumCta='205-000-000' Desc='Impuestos Trasladados No Cobrados' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='209.01' NumCta='205-200-000' Desc='Iva Trasladado no cobrado' SubCtaDe='205-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='206' NumCta='206-000-000' Desc='Anticipos de Clientes' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='206.01' NumCta='206-100-000' Desc='Anticipo de Clientes Nacionales' SubCtaDe='206-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='206.02' NumCta='206-200-000' Desc='Anticipo de Clientes Extranjeros' SubCtaDe='206-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='210' NumCta='207-000-000' Desc='Provision de Sueldos por Pagar' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='210.01' NumCta='207-100-000' Desc='Sueldos por pagar' SubCtaDe='207-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='210.05' NumCta='207-200-000' Desc='Asimilados por pagar' SubCtaDe='207-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='211' NumCta='208-000-000' Desc='PROVISION CONTRIBUCIONES SEG. SOC. POR PAGAR' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='211.01' NumCta='208-100-000' Desc='IMSS Patronal' SubCtaDe='208-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='211.02' NumCta='208-200-000' Desc='SAR por Pagar' SubCtaDe='208-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='211.03' NumCta='208-300-000' Desc='INFONAVIT por Pagar' SubCtaDe='208-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='215' NumCta='209-000-000' Desc='PTU por Pagar' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='215.01' NumCta='209-001-000' Desc='PTU por pagar' SubCtaDe='209-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='252' NumCta='220-000-000' Desc='ACREEDORES HIPOTECARIOS' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='252' NumCta='221-000-000' Desc='CREDITOS BANCARIOS' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='252.01' NumCta='221-001-001' Desc='CREDITO 1239-001 NEGOCIOS Y PROYECTOS ' SubCtaDe='221-001-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='252.01' NumCta='221-001-002' Desc='CREDITO 1239-02 NEGOCIOS Y PROYECTOS' SubCtaDe='221-001-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='301.02' NumCta='301-200-100' Desc='Mario Garza Garza' SubCtaDe='301-200-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='301.02' NumCta='301-200-200' Desc='Josefina Garza Leal' SubCtaDe='301-200-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='301.02' NumCta='301-200-300' Desc='Alejandra Orozco Diosdado' SubCtaDe='301-200-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='301.02' NumCta='301-200-400' Desc='Jessica Garza Garza' SubCtaDe='301-200-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='301.03' NumCta='301-300-100' Desc='Axel Eduardo Vielma Ordoñez' SubCtaDe='301-300-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='303.01' NumCta='302-000-000' Desc='Reserva Legal' SubCtaDe='000-032-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='304.02' NumCta='330-001-000' Desc='Resultado Ejercicio 2015' SubCtaDe='000-033-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='304.01' NumCta='330-002-000' Desc='RESULTADO EJERCICIO 2016' SubCtaDe='000-033-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='401' NumCta='400-000-000' Desc='Ingresos' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='401.04' NumCta='400-001-000' Desc='Cosecha' SubCtaDe='400-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='702' NumCta='401-000-000' Desc='PRODUCTOS FINANCIEROS' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='702.01' NumCta='401-001-000' Desc='GANANCIA CAMBIARIA' SubCtaDe='401-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='702.04' NumCta='401-002-000' Desc='Interes Nominal' SubCtaDe='401-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='403' NumCta='403-000-000' Desc='Otros Ingresos' Nivel='1' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='403.01' NumCta='403-001-000' Desc='Pro Campo' SubCtaDe='403-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='403.01' NumCta='403-002-000' Desc='Indemnizaciones' SubCtaDe='403-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='403.01' NumCta='403-003-000' Desc='OTROS INGRESOS' SubCtaDe='403-000-000' Nivel='2' Natur='A' />
+<catalogocuentas:Ctas CodAgrup='402' NumCta='405-000-000' Desc='Descuentos sobre Servicios' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='402.02' NumCta='405-001-000' Desc='Descuentos sobre ventas' SubCtaDe='405-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602' NumCta='501-000-000' Desc='GASTOS DE OPERACION' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.01' NumCta='501-010-001' Desc='SUELDOS Y SALARIOS' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.06' NumCta='501-010-002' Desc='VACACIONES' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.07' NumCta='501-010-003' Desc='PRIMA VACACIONAL' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.12' NumCta='501-010-004' Desc='AGUINALDO' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.10' NumCta='501-010-005' Desc='GRATIFICACIONES' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.26' NumCta='501-010-006' Desc='CUOTAS AL IMSS' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.27' NumCta='501-010-007' Desc='APORTACIONES INFONAVIT' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.28' NumCta='501-010-008' Desc='APORTACIONES SAR' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.29' NumCta='501-010-009' Desc='IMPUESTO ESTATAL SOBRE NOMINAS' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.01' NumCta='501-010-010' Desc='EVENTUALES' SubCtaDe='501-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.48' NumCta='501-020-001' Desc='DIESEL' SubCtaDe='501-020-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-001' Desc='GASOLINA' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-002' Desc='CASETAS' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-003' Desc='AVIONES' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-004' Desc='RESTAURANTES' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-005' Desc='HOTELES' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-006' Desc='AUTOBUSES' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-007' Desc='RENTA DE AUTOS' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.49' NumCta='501-030-008' Desc='CELULAR' SubCtaDe='501-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.50' NumCta='501-040-001' Desc='TELEFONO E INTERNET' SubCtaDe='501-040-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.52' NumCta='501-040-002' Desc='ENERGIA ELECTRICA' SubCtaDe='501-040-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-040-003' Desc='MATERIALES' SubCtaDe='501-040-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-001' Desc='FERTILIZANTE NPK' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-002' Desc='FERTILIZANTE FOLIARES' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-003' Desc='HERBICIDA' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-004' Desc='INSECTICIDA' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-005' Desc='FUNGICIDAS' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-050-006' Desc='BIOLóGICOS' SubCtaDe='501-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.57' NumCta='501-060-101' Desc='TRACTORES' SubCtaDe='501-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.57' NumCta='501-060-102' Desc='AUTOS' SubCtaDe='501-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.57' NumCta='501-060-103' Desc='RANCHO' SubCtaDe='501-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.57' NumCta='501-060-104' Desc='COBERTURA' SubCtaDe='501-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-070-001' Desc='RENTA DE PARCELAS' SubCtaDe='501-070-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-080-001' Desc='COSECHA' SubCtaDe='501-080-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-090-001' Desc='ANALISIS DE SUELO' SubCtaDe='501-090-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.84' NumCta='501-090-002' Desc='CERTIFICADOS' SubCtaDe='501-090-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.56' NumCta='501-100-001' Desc='MANTENIMIENTO RANCHO' SubCtaDe='501-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.56' NumCta='501-100-002' Desc='MANTENIMIENTO DE VEHíCULOS' SubCtaDe='501-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.56' NumCta='501-100-003' Desc='MANTENIMIENTO DE MAQUINARIA' SubCtaDe='501-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.56' NumCta='501-100-004' Desc='MANTENIMIENTO IMPLEMENTOS' SubCtaDe='501-100-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='601.72' NumCta='501-110-000' Desc='FLETES Y ACARREOS' SubCtaDe='501-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='602.83' NumCta='501-900-001' Desc='NO DEDUCIBLES' SubCtaDe='501-900-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='701' NumCta='502-000-000' Desc='GASTOS FINANCIEROS' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='701.10' NumCta='502-001-000' Desc='Comisiones y Situaciones Bancarias' SubCtaDe='502-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='701.01' NumCta='502-002-000' Desc='Perdida Cambiaria' SubCtaDe='502-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='701.04' NumCta='502-003-000' Desc='INTERESES CRéDITOS' SubCtaDe='502-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603' NumCta='503-000-000' Desc='GASTOS ADMINISTRATIVOS' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.01' NumCta='503-010-001' Desc='SUELDOS Y SALARIOS' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.06' NumCta='503-010-002' Desc='VACACIONES' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.07' NumCta='503-010-003' Desc='PRIMA VACACIONAL' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.12' NumCta='503-010-004' Desc='AGUINALDO' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.10' NumCta='503-010-005' Desc='GRATIFICACIONES' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.26' NumCta='503-010-006' Desc='CUOTAS AL IMSS' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.27' NumCta='503-010-007' Desc='APORTACIONES INFONAVIT' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.28' NumCta='503-010-008' Desc='APORTACIONES SAR' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.29' NumCta='503-010-009' Desc='IMPUESTO ESTATAL SOBRE NOMINAS' SubCtaDe='503-010-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.49' NumCta='503-020-001' Desc='GASOLINA' SubCtaDe='503-020-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.50' NumCta='503-030-001' Desc='TELEFONO OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.50' NumCta='503-030-002' Desc='INTERNET OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.51' NumCta='503-030-003' Desc='AGUA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.52' NumCta='503-030-004' Desc='ENERGIA ELECTRICA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.82' NumCta='503-030-005' Desc='GAS' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.55' NumCta='503-030-006' Desc='PAPELERIA Y ARTICULOS DE OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.82' NumCta='503-030-007' Desc='ACTIVOS MENORES' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.56' NumCta='503-030-008' Desc='MANTENIMIENTO OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.56' NumCta='503-030-009' Desc='REMODELACION OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.82' NumCta='503-030-010' Desc='BODEGA OFICINA' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.82' NumCta='503-030-011' Desc='OTROS GASTOS DE ADMINISTRACION' SubCtaDe='503-030-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.57' NumCta='503-040-101' Desc='OFICINA' SubCtaDe='503-040-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.57' NumCta='503-040-102' Desc='VIDA' SubCtaDe='503-040-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.57' NumCta='503-040-103' Desc='SALUD' SubCtaDe='503-040-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.57' NumCta='503-040-104' Desc='INMUEBLES' SubCtaDe='503-040-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.59' NumCta='503-050-001' Desc='RECARGOS' SubCtaDe='503-050-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.34' NumCta='503-060-101' Desc='Abogados PF' SubCtaDe='503-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.38' NumCta='503-060-102' Desc='Abogados PM' SubCtaDe='503-060-100' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.34' NumCta='503-060-201' Desc='Auditores PF' SubCtaDe='503-060-200' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.38' NumCta='503-060-202' Desc='Auditores PM' SubCtaDe='503-060-200' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.34' NumCta='503-060-301' Desc='Contadores PF' SubCtaDe='503-060-300' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.38' NumCta='503-060-302' Desc='Contadores PM' SubCtaDe='503-060-300' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.34' NumCta='503-060-401' Desc='Consultores PF' SubCtaDe='503-060-400' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.38' NumCta='503-060-402' Desc='Consultores PM' SubCtaDe='503-060-400' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.20' NumCta='503-060-501' Desc='CUOTAS SINDICALES' SubCtaDe='503-060-500' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.45' NumCta='503-070-001' Desc='Arrendamiento Oficina PF' SubCtaDe='503-070-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.46' NumCta='503-070-002' Desc='Arrendamiento Oficina PM' SubCtaDe='503-070-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='603.81' NumCta='503-900-001' Desc='NO DEDUCIBLES' SubCtaDe='503-900-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='501' NumCta='504-000-000' Desc='COSTO DE VENTA' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='501.01' NumCta='504-100-000' Desc='Costo de Venta' SubCtaDe='504-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='606' NumCta='505-000-000' Desc='FACILIDADES ADMINISTRATIVAS FISCALES' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='606.01' NumCta='505-001-000' Desc='Casetas' SubCtaDe='505-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='611' NumCta='510-000-000' Desc='IMPUESTO DEL EJERCICIO' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='611.01' NumCta='510-000-001' Desc='ISR' SubCtaDe='510-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='607' NumCta='511-000-000' Desc='PTU del Ejercicio' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='607.01' NumCta='511-000-001' Desc='PTU' SubCtaDe='511-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='613' NumCta='512-000-000' Desc='DEPRECIACION CONTABLE' Nivel='1' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='613.04' NumCta='512-001-000' Desc='Mob y Equipo de Oficina' SubCtaDe='512-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='613.03' NumCta='512-002-000' Desc='Equipo de Transporte' SubCtaDe='512-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='613.05' NumCta='512-003-000' Desc='Equipo de Computo' SubCtaDe='512-000-000' Nivel='2' Natur='D' />
+<catalogocuentas:Ctas CodAgrup='613.02' NumCta='512-004-000' Desc='MAQUINARIA Y EQUIPO' SubCtaDe='512-000-000' Nivel='2' Natur='D' /></catalogocuentas:Catalogo>

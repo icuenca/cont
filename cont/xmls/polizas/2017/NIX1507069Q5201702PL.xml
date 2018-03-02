@@ -1,0 +1,328 @@
+<PLZ:Polizas xsi:schemaLocation='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo/PolizasPeriodo_1_3.xsd' Version='1.3' RFC='NIX1507069Q5' Mes='02' Anio='2017' TipoSolicitud='AF' NumOrden='TTT3789098/76' xmlns:PLZ='http://www.sat.gob.mx/esquemas/ContabilidadE/1_3/PolizasPeriodo' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-1' Fecha='2017-02-20' Concepto='Pago a Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago a Mario Garza' Debe='2500.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Pago a Mario Garza' Debe='0.00' Haber='2500.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-2' Fecha='2017-02-20' Concepto='Pago de Mario Gaarza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago de Mario Gaarza' Debe='17500.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Pago de Mario Gaarza' Debe='0.00' Haber='17500.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-3' Fecha='2017-02-22' Concepto='Pago de Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago de Mario Garza' Debe='10000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Pago de Mario Garza' Debe='0.00' Haber='10000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-4' Fecha='2017-02-24' Concepto='Pago de Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago de Mario Garza' Debe='9000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Pago de Mario Garza' Debe='0.00' Haber='9000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-5' Fecha='2017-02-27' Concepto='Pago de Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago de Mario Garza' Debe='17000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-100' DesCta='Mario Garza (Credito Santander 3831-3)' Concepto='Pago de Mario Garza' Debe='0.00' Haber='17000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='1-2017-02-6' Fecha='2017-02-28' Concepto='Pago de Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago de Mario Garza' Debe='12000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Pago de Mario Garza' Debe='0.00' Haber='12000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-1' Fecha='2017-02-01' Concepto='Comisión Mem Pyme Feb-2017'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Comisión Mem Pyme Feb-2017' Debe='0.00' Haber='696.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-01' Benef='BANCO SANTANDER (MEXICO), S.A.INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER MEXICO' RFC='BSM970519DU8' Monto='696' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Comisión Mem Pyme Feb-2017' Debe='96.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='502-001-000' DesCta='Comisiones y Situaciones Bancarias' Concepto='Comisión Mem Pyme Feb-2017' Debe='600.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-2' Fecha='2017-02-07' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='15000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-07' Benef='-' RFC='NIX1507069Q5' Monto='15000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='15000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-3' Fecha='2017-02-13' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='25000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-13' Benef='-' RFC='NIX1507069Q5' Monto='25000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='25000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-4' Fecha='2017-02-01' Concepto='Liq. F- Teresita de Jesus Zamora'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Liq. F- Teresita de Jesus Zamora' Debe='0.00' Haber='2000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-01' Benef='TERESITA DE JESUS ZAMORA JIMENEZ' RFC='ZAJT6510158Q8' Monto='2000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-078' DesCta='TERESITA DE JESUS ZAMORA JIMENEZ' Concepto='Liq. F- Teresita de Jesus Zamora' Debe='2000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-5' Fecha='2017-02-01' Concepto='A cta F- Teresita de Jesus Zamoraq'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='A cta F- Teresita de Jesus Zamoraq' Debe='0.00' Haber='8000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-01' Benef='TERESITA DE JESUS ZAMORA JIMENEZ' RFC='ZAJT6510158Q8' Monto='8000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-078' DesCta='TERESITA DE JESUS ZAMORA JIMENEZ' Concepto='A cta F- Teresita de Jesus Zamoraq' Debe='8000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-6' Fecha='2017-02-01' Concepto='Prestamo Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Prestamo Mario Garza' Debe='0.00' Haber='20000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-01' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='20000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Prestamo Mario Garza' Debe='20000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-7' Fecha='2017-02-01' Concepto='Prestamo Construval'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Prestamo Construval' Debe='0.00' Haber='40000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-01' Benef='CONSTRUVAL SA DE CV' RFC='CON930128LC5' Monto='40000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-500-003' DesCta='CONSTRUVAL' Concepto='Prestamo Construval' Debe='40000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-8' Fecha='2017-02-02' Concepto='Prestamo Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Prestamo Mario Garza' Debe='0.00' Haber='15000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-02' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='15000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Prestamo Mario Garza' Debe='15000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-9' Fecha='2017-02-07' Concepto='Prestamo Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Prestamo Mario Garza' Debe='0.00' Haber='15000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-07' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='15000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Prestamo Mario Garza' Debe='15000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-10' Fecha='2017-02-13' Concepto='Prestamo Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Prestamo Mario Garza' Debe='0.00' Haber='25000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-13' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='25000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Prestamo Mario Garza' Debe='25000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-11' Fecha='2017-02-15' Concepto='Prestamo Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Prestamo Mario Garza' Debe='0.00' Haber='2500.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-15' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='2500' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Prestamo Mario Garza' Debe='2500.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-12' Fecha='2017-02-16' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='1000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='01' Fecha='2017-02-16' Benef='-' RFC='NIX1507069Q5' Monto='1000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='1000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-13' Fecha='2017-02-16' Concepto='Pago Imss Ene 2017'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago Imss Ene 2017' Debe='0.00' Haber='2995.27' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-16' Benef='Instituto Mexicano del Seguro Social' RFC='IMS421231I45' Monto='2995.27' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='208-100-000' DesCta='IMSS Patronal' Concepto='Pago Imss Ene 2017' Debe='2563.39' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='203-600-000' DesCta='IMSS Obrero' Concepto='Pago Imss Ene 2017' Debe='431.88' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-14' Fecha='2017-02-16' Concepto='Anticipo p/gastos varios'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Anticipo p/gastos varios' Debe='0.00' Haber='1000.00' >
+<PLZ:Cheque Num='21' BanEmisNal='113' CtaOri='00000091031' Fecha='2017-02-16' Benef='ISIS XIOMARA BARRAGAN IBARRA Y WONG' RFC='BAII8307016T8' Monto='1000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-100-002' DesCta='ISIS BARRAGAN IBARRA' Concepto='Anticipo p/gastos varios' Debe='1000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-15' Fecha='2017-02-17' Concepto='Préstamo a Mario Garza Crédito'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Préstamo a Mario Garza Crédito' Debe='0.00' Haber='6100.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-17' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='6100' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-200' DesCta='Mario Garza (Bx+ 900807)' Concepto='Préstamo a Mario Garza Crédito' Debe='6100.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-16' Fecha='2017-02-20' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='22000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-20' Benef='-' RFC='NIX1507069Q5' Monto='22000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='22000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-17' Fecha='2017-02-22' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='10000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-22' Benef='-' RFC='NIX1507069Q5' Monto='10000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='10000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-18' Fecha='2017-02-20' Concepto='Pago F-8618 NYP Intereses Feb 2017'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Pago F-8618 NYP Intereses Feb 2017' Debe='0.00' Haber='21913.13' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-20' Benef='Negocios y Proyectos, SAPI de C.V. SOFOM E.N.R.' RFC='NPR960604RPA' Monto='21913.13' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-116' DesCta='NEGOCIOS Y PROYECTOS SAPI DE CV' Concepto='Pago F-8618 NYP Intereses Feb 2017' Debe='21913.13' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-19' Fecha='2017-02-22' Concepto='A cta F Teresita de Jesus Zamora'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='A cta F Teresita de Jesus Zamora' Debe='0.00' Haber='10000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-22' Benef='TERESITA DE JESUS ZAMORA JIMENEZ' RFC='ZAJT6510158Q8' Monto='10000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-078' DesCta='TERESITA DE JESUS ZAMORA JIMENEZ' Concepto='A cta F Teresita de Jesus Zamora' Debe='10000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-20' Fecha='2017-02-24' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='9000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-24' Benef='-' RFC='NIX1507069Q5' Monto='9000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='9000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-21' Fecha='2017-02-27' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='17000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-27' Benef='-' RFC='NIX1507069Q5' Monto='17000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='17000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-22' Fecha='2017-02-28' Concepto='TRAN N IXUA SANT A N IXUA BX'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='0.00' Haber='3000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-28' Benef='-' RFC='NIX1507069Q5' Monto='3000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='TRAN N IXUA SANT A N IXUA BX' Debe='3000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-23' Fecha='2017-02-28' Concepto='Pago a Mario Garza'>
+<PLZ:Transaccion NumCta='102-100-200' DesCta='BANCO SANTANDER SA' Concepto='Pago a Mario Garza' Debe='0.00' Haber='9000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-28' Benef='GARZA GARZA MARIO' RFC='GAGM750406F20' Monto='9000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-200-100' DesCta='Mario Garza (Credito Santander 3831-3)' Concepto='Pago a Mario Garza' Debe='9000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-24' Fecha='2017-02-24' Concepto='Pago F- 371 Tomas Flores'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Pago F- 371 Tomas Flores' Debe='0.00' Haber='8932.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-24' Benef='TOMAS FLORES RAMIREZ' RFC='FORT691210PRA' Monto='8932' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-063' DesCta='FLORES RAMIREZ TOMAS' Concepto='Pago F- 371 Tomas Flores' Debe='8932.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='Pago F- 371 Tomas Flores' Debe='0.00' Haber='1232.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Pago F- 371 Tomas Flores' Debe='1232.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-25' Fecha='2017-02-27' Concepto='Liq. F- Teresita de Jesus Zamora'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Liq. F- Teresita de Jesus Zamora' Debe='0.00' Haber='17000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-27' Benef='TERESITA DE JESUS ZAMORA JIMENEZ' RFC='ZAJT6510158Q8' Monto='17000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-078' DesCta='TERESITA DE JESUS ZAMORA JIMENEZ' Concepto='Liq. F- Teresita de Jesus Zamora' Debe='17000.00' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='2-2017-02-26' Fecha='2017-02-28' Concepto='Pago F- 18747 Servicio ZZVV'>
+<PLZ:Transaccion NumCta='102-100-100' DesCta='BANCO VE POR MAS SA' Concepto='Pago F- 18747 Servicio ZZVV' Debe='0.00' Haber='3000.00' >
+<PLZ:OtrMetodoPago MetPagoPol='03' Fecha='2017-02-28' Benef='SERVICIO ZZVV SA DE CV' RFC='SZZ0008228F0' Monto='3000' /></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='Pago F- 18747 Servicio ZZVV' Debe='3000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='Pago F- 18747 Servicio ZZVV' Debe='0.00' Haber='406.20' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Pago F- 18747 Servicio ZZVV' Debe='406.20' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-1' Fecha='2017-02-02' Concepto='Provision F- 8618 Negocios y Proyectos'>
+<PLZ:Transaccion NumCta='502-003-000' DesCta='INTERESES CRéDITOS' Concepto='Provision F- 8618 Negocios y Proyectos' Debe='21913.13' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-116' DesCta='NEGOCIOS Y PROYECTOS SAPI DE CV' Concepto='Provision F- 8618 Negocios y Proyectos' Debe='0.00' Haber='21913.13' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-2' Fecha='2017-02-13' Concepto='Provision F-352 Tomas Flores'>
+<PLZ:Transaccion NumCta='130-100-003' DesCta='LABORES CULTURALES' Concepto='RENTA PIPA' Debe='11200.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='RENTA PIPA' Debe='1792.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-063' DesCta='FLORES RAMIREZ TOMAS' Concepto='RENTA PIPA' Debe='0.00' Haber='12992.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-3' Fecha='2017-02-17' Concepto='Gastos Tarjeta de Crédito'>
+<PLZ:Transaccion NumCta='501-030-004' DesCta='RESTAURANTES' Concepto='F- La casa de los Patios' Debe='120.69' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- La casa de los Patios' Debe='19.31' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-009' DesCta='La Casa De Los Patios SA de CV' Concepto='F- LA CASA DE LOS PATIOS' Debe='0.00' Haber='140.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-009' DesCta='La Casa De Los Patios SA de CV' Concepto='F- LA CASA DE LOS PATIOS' Debe='140.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F- LA CASA DE LOS PATIOS' Debe='0.00' Haber='140.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-006' DesCta='AUTOBUSES' Concepto='F- Digital Solutions Americas' Debe='30.54' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- Digital Solutions Americas' Debe='4.89' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='F- Digital Solutions Americas' Debe='0.00' Haber='35.43' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='F- Digital Solutions Americas' Debe='35.43' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F- Digital Solutions Americas' Debe='0.00' Haber='35.43' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-161655 Fer-Petro' Debe='1222.69' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-161655 Fer-Petro' Debe='184.63' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-161655 Fer-Petro' Debe='0.00' Haber='1407.32' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-161655 Fer-Petro' Debe='1407.32' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F-161655 Fer-Petro' Debe='0.00' Haber='1407.32' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-40797 Petromax' Debe='865.17' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-40797 Petromax' Debe='134.75' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-066' DesCta='PETROMAX SA DE CV' Concepto='F-40797 Petromax' Debe='0.00' Haber='999.92' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-066' DesCta='PETROMAX SA DE CV' Concepto='F-40797 Petromax' Debe='999.92' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F-40797 Petromax' Debe='0.00' Haber='999.92' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='130-200-001' DesCta='FERTILIZANTES NPK' Concepto='F-27 Agrofrut' Debe='1170.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-065' DesCta='AGROFRUT ZAPOTLAN SA DE CV' Concepto='F-27 Agrofrut' Debe='0.00' Haber='1170.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-065' DesCta='AGROFRUT ZAPOTLAN SA DE CV' Concepto='F-27 Agrofrut' Debe='1170.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F-27 Agrofrut' Debe='0.00' Haber='1170.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-4' Fecha='2017-02-17' Concepto='Gastos Comprobados Mario Garza'>
+<PLZ:Transaccion NumCta='501-030-002' DesCta='CASETAS' Concepto='F- Varias Tramo Carretero Gdl' Debe='956.88' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- Varias Tramo Carretero Gdl' Debe='153.12' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-069' DesCta='TRAMO CARRETERO GUADALAJARA COLIMA' Concepto='F- Varias Tramo Carretero Gdl' Debe='0.00' Haber='1110.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-069' DesCta='TRAMO CARRETERO GUADALAJARA COLIMA' Concepto='F- Varias Tramo Carretero Gdl' Debe='1110.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F- Varias Tramo Carretero Gdl' Debe='0.00' Haber='1110.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-Varias Fer-Petro' Debe='2954.05' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-VARIAS FER-PETRO' Debe='446.39' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-VARIAS FER-PETRO' Debe='0.00' Haber='3400.44' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-VARIAS FER-PETRO' Debe='3400.44' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-VARIAS FER-PETRO' Debe='0.00' Haber='3400.44' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-020-001' DesCta='DIESEL' Concepto='F-18322  Servicio ZZVV' Debe='2550.55' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-18322  Servicio ZZVV' Debe='399.45' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18322  Servicio ZZVV' Debe='0.00' Haber='2950.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18322  Servicio ZZVV' Debe='2950.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-18322  Servicio ZZVV' Debe='0.00' Haber='2950.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-18324 Servicio ZZVV' Debe='562.41' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-18324 Servicio ZZVV' Debe='87.59' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18324 Servicio ZZVV' Debe='0.00' Haber='650.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18324 Servicio ZZVV' Debe='650.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-18324 Servicio ZZVV' Debe='0.00' Haber='650.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-Varias Petromax' Debe='3028.92' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-Varias Petromax' Debe='471.40' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-066' DesCta='PETROMAX SA DE CV' Concepto='F-Varias Petromax' Debe='0.00' Haber='3500.32' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-066' DesCta='PETROMAX SA DE CV' Concepto='F-Varias Petromax' Debe='3500.32' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-Varias Petromax' Debe='0.00' Haber='3500.32' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-040-003' DesCta='MATERIALES' Concepto='F- 3824 Jose Martinez Cordova' Debe='2974.14' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- 3824 Jose Martinez Cordova' Debe='475.86' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-085' DesCta='MARTINEZ CORDOVA JOSE' Concepto='F- 3824 Jose Martinez Cordova' Debe='0.00' Haber='3450.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-085' DesCta='MARTINEZ CORDOVA JOSE' Concepto='F- 3824 Jose Martinez Cordova' Debe='3450.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F- 3824 Jose Martinez Cordova' Debe='0.00' Haber='3450.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-004' DesCta='RESTAURANTES' Concepto='F-6654,83,97 La Casa de los Patios' Debe='405.17' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-6654,83,97 La Casa de los Patios' Debe='64.83' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-009' DesCta='La Casa De Los Patios SA de CV' Concepto='F-6654,83,97 LA CASA DE LOS PATIOS' Debe='0.00' Haber='470.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-009' DesCta='La Casa De Los Patios SA de CV' Concepto='F-6654,83,97 LA CASA DE LOS PATIOS' Debe='470.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-6654,83,97 LA CASA DE LOS PATIOS' Debe='0.00' Haber='470.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='503-030-006' DesCta='PAPELERIA Y ARTICULOS DE OFICINA' Concepto='F-734 Office Depot' Debe='1160.34' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-734 Office Depot' Debe='185.66' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-037' DesCta='Office Depot De Mexico SA de CV' Concepto='F-734 Office Depot' Debe='0.00' Haber='1346.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-037' DesCta='Office Depot De Mexico SA de CV' Concepto='F-734 Office Depot' Debe='1346.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-734 Office Depot' Debe='0.00' Haber='1346.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-004' DesCta='RESTAURANTES' Concepto='F- Lisbeth Liliana Martinez' Debe='258.62' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- Lisbeth Liliana Martinez' Debe='41.38' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-035' DesCta='Martinez Diaz Lisbet Liliana' Concepto='F- Lisbeth Liliana Martinez' Debe='0.00' Haber='300.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-035' DesCta='Martinez Diaz Lisbet Liliana' Concepto='F- Lisbeth Liliana Martinez' Debe='300.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F- Lisbeth Liliana Martinez' Debe='0.00' Haber='300.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-5' Fecha='2017-02-17' Concepto='Comprobación Gastos Isis Barragán'>
+<PLZ:Transaccion NumCta='503-030-011' DesCta='OTROS GASTOS DE ADMINISTRACION' Concepto='Pago Multa Imss Reinstalacion Reg Patronal' Debe='601.74' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-100-002' DesCta='ISIS BARRAGAN IBARRA' Concepto='Pago Multa Imss Reinstalacion Reg Patronal' Debe='0.00' Haber='601.74' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-006' DesCta='AUTOBUSES' Concepto='Pago F-3410757 Digital Solutions' Debe='26.76' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Pago F-3410757 Digital Solutions' Debe='4.28' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='Pago F-3410757 Digital Solutions' Debe='0.00' Haber='31.04' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='Pago F-3410757 Digital Solutions' Debe='31.04' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-100-002' DesCta='ISIS BARRAGAN IBARRA' Concepto='Pago F-3410757 Digital Solutions' Debe='0.00' Haber='31.04' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-006' DesCta='AUTOBUSES' Concepto='Pago F-64 Alan Uriah de la Paz' Debe='29.70' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Pago F-64 Alan Uriah de la Paz' Debe='4.75' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='Pago F-64 Alan Uriah de la Paz' Debe='0.00' Haber='34.45' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='Pago F-64 Alan Uriah de la Paz' Debe='34.45' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-100-002' DesCta='ISIS BARRAGAN IBARRA' Concepto='Pago F-64 Alan Uriah de la Paz' Debe='0.00' Haber='34.45' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='202-300-000' DesCta='2% sobre Nómina' Concepto='2% Nomina Ene 2017' Debe='609.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='503-050-001' DesCta='RECARGOS' Concepto='2% Nomina Ene 2017' Debe='7.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='105-100-002' DesCta='ISIS BARRAGAN IBARRA' Concepto='2% Nomina Ene 2017' Debe='0.00' Haber='616.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-6' Fecha='2017-02-22' Concepto='Provision F-371 Tomas Flores'>
+<PLZ:Transaccion NumCta='130-100-003' DesCta='LABORES CULTURALES' Concepto='PIPA AGUA' Debe='7700.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='PIPA AGUA' Debe='1232.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-063' DesCta='FLORES RAMIREZ TOMAS' Concepto='PIPA AGUA' Debe='0.00' Haber='8932.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-7' Fecha='2017-02-28' Concepto='Gastos Comprobados Mario Garza'>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-162419 Fer-Petro' Debe='260.66' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-162419 Fer-Petro' Debe='39.39' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-162419 Fer-Petro' Debe='0.00' Haber='300.05' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-162419 Fer-Petro' Debe='300.05' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-162419 Fer-Petro' Debe='0.00' Haber='300.05' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-18454 Servicio ZZVV' Debe='865.24' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-18454 Servicio ZZVV' Debe='134.76' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18454 Servicio ZZVV' Debe='0.00' Haber='1000.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='F-18454 Servicio ZZVV' Debe='1000.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-18454 Servicio ZZVV' Debe='0.00' Haber='1000.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-408938,731 Gaxcopetrol' Debe='1124.82' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-408938,731 Gaxcopetrol' Debe='175.18' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-118' DesCta='GAXCOPETROL DE MEXICO SA DE CV' Concepto='F-408938,731 Gaxcopetrol' Debe='0.00' Haber='1300.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-118' DesCta='GAXCOPETROL DE MEXICO SA DE CV' Concepto='F-408938,731 Gaxcopetrol' Debe='1300.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-408938,731 Gaxcopetrol' Debe='0.00' Haber='1300.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-7426 Becktrop Operadora' Debe='259.58' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-7426 Becktrop Operadora' Debe='40.42' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='F-7426 Becktrop Operadora' Debe='0.00' Haber='300.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-100' DesCta='PROVEEDOR GLOBAL' Concepto='F-7426 Becktrop Operadora' Debe='300.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-7426 Becktrop Operadora' Debe='0.00' Haber='300.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-004' DesCta='RESTAURANTES' Concepto='F- Lisbeth Liliana Martinez Diaz' Debe='124.14' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F- Lisbeth Liliana Martinez Diaz' Debe='19.86' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-035' DesCta='Martinez Diaz Lisbet Liliana' Concepto='F- Lisbeth Liliana Martinez Diaz' Debe='0.00' Haber='144.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-035' DesCta='Martinez Diaz Lisbet Liliana' Concepto='F- Lisbeth Liliana Martinez Diaz' Debe='144.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F- Lisbeth Liliana Martinez Diaz' Debe='0.00' Haber='144.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-040-003' DesCta='MATERIALES' Concepto='F-399800 Home Depot' Debe='90.52' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-399800 Home Depot' Debe='14.48' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-038' DesCta='Home Depot Mexico S De RL De CV' Concepto='F-399800 Home Depot' Debe='0.00' Haber='105.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-038' DesCta='Home Depot Mexico S De RL De CV' Concepto='F-399800 Home Depot' Debe='105.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-399800 Home Depot' Debe='0.00' Haber='105.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='501-030-002' DesCta='CASETAS' Concepto='F-113790 Tramo Carretero Gdl' Debe='343.96' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-113790 Tramo Carretero Gdl' Debe='55.04' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-069' DesCta='TRAMO CARRETERO GUADALAJARA COLIMA' Concepto='F-113790 Tramo Carretero Gdl' Debe='0.00' Haber='399.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-069' DesCta='TRAMO CARRETERO GUADALAJARA COLIMA' Concepto='F-113790 Tramo Carretero Gdl' Debe='399.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-113790 Tramo Carretero Gdl' Debe='0.00' Haber='399.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-8' Fecha='2017-02-28' Concepto='Gastos Tarjeta de Crédito'>
+<PLZ:Transaccion NumCta='503-030-001' DesCta='TELEFONO OFICINA' Concepto='F-Axtel' Debe='267.36' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='503-030-002' DesCta='INTERNET OFICINA' Concepto='F-Axtel' Debe='119.71' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-Axtel' Debe='61.93' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-087' DesCta='AXTEL SAB DE CV' Concepto='F-Axtel' Debe='0.00' Haber='449.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-087' DesCta='AXTEL SAB DE CV' Concepto='F-Axtel' Debe='449.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-002' DesCta='Mario Garza (Gastos Tarjeta)' Concepto='F-Axtel' Debe='0.00' Haber='449.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-9' Fecha='2017-02-28' Concepto='Provision F-18747 Servicio ZZVV'>
+<PLZ:Transaccion NumCta='501-020-001' DesCta='DIESEL' Concepto='DIESEL 34006' Debe='2593.80' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='DIESEL 34006' Debe='406.20' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-034' DesCta='Servicio ZZVV SA de CV' Concepto='DIESEL 34006' Debe='0.00' Haber='3000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-10' Fecha='2017-02-28' Concepto='Gastos Comprobados Mario Garza'>
+<PLZ:Transaccion NumCta='501-030-001' DesCta='GASOLINA' Concepto='F-162901 Fer-Petro' Debe='868.82' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='F-162901 Fer-Petro' Debe='131.25' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-162901 Fer-Petro' Debe='0.00' Haber='1000.07' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-003' DesCta='Fer-Petro S de RL de CV' Concepto='F-162901 Fer-Petro' Debe='1000.07' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='201-100-001' DesCta='Mario Garza (Gastos Diario)' Concepto='F-162901 Fer-Petro' Debe='0.00' Haber='1000.07' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-11' Fecha='2017-02-24' Concepto='Provisión F- 40424 Agroquimicos la huerta'>
+<PLZ:Transaccion NumCta='200-120-001' DesCta='AGROQUíMICOS E IMPORTACIONES DE RIEGO LA HUERTA SA DE CV' Concepto='Provisión F- 40424 Agroquimicos la huerta' Debe='0.00' Haber='2514.34' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-120-001' DesCta='AGROQUíMICOS E IMPORTACIONES DE RIEGO LA HUERTA SA DE CV' Concepto='Provisión F- 40424 Agroquimicos la huerta' Debe='0.00' Haber='50067.30' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='130-200-001' DesCta='FERTILIZANTES NPK' Concepto='Provisión F- 40424 Agroquimicos la huerta' Debe='50067.30' Haber='0.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-12' Fecha='2017-02-27' Concepto='Provision F-375 Tomas Flores'>
+<PLZ:Transaccion NumCta='130-100-003' DesCta='LABORES CULTURALES' Concepto='RENTA PIPA' Debe='6600.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='RENTA PIPA' Debe='1056.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-063' DesCta='FLORES RAMIREZ TOMAS' Concepto='RENTA PIPA' Debe='0.00' Haber='7656.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-13' Fecha='2017-02-20' Concepto='Provision F- 1424601 Tracsa'>
+<PLZ:Transaccion NumCta='140-400-000' DesCta='Reservorio de Agua' Concepto='ID. No: TR-16513 Serie No: XGS00270 PIN: *CAT0318D' Debe='21551.72' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='107-100-000' DesCta='Iva Pendiente de Pagar' Concepto='ID. No: TR-16513 Serie No: XGS00270 PIN: *CAT0318D' Debe='3448.28' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='200-110-106' DesCta='TRACSA SAPI DE CV' Concepto='ID. No: TR-16513 Serie No: XGS00270 PIN: *CAT0318D' Debe='0.00' Haber='25000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-14' Fecha='2017-02-15' Concepto='Provision Nomina ISIS XIOMARA BARRAGAN IBARRA Y WO'>
+<PLZ:Transaccion NumCta='503-010-001' DesCta='SUELDOS Y SALARIOS' Concepto='SUELDO' Debe='12339.25' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='203-100-000' DesCta='ISR Salarios' Concepto='ISR' Debe='0.00' Haber='2123.31' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='203-600-000' DesCta='IMSS Obrero' Concepto='IMSS' Debe='0.00' Haber='215.94' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='207-100-000' DesCta='Sueldos por pagar' Concepto='Provision Nomina' Debe='0.00' Haber='10000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-15' Fecha='2017-02-28' Concepto='Provision Nomina ISIS XIOMARA BARRAGAN IBARRA Y WO'>
+<PLZ:Transaccion NumCta='503-010-001' DesCta='SUELDOS Y SALARIOS' Concepto='SUELDO' Debe='12339.25' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='203-600-000' DesCta='IMSS Obrero' Concepto='IMSS' Debe='0.00' Haber='215.94' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='203-100-000' DesCta='ISR Salarios' Concepto='ISR' Debe='0.00' Haber='2123.31' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='207-100-000' DesCta='Sueldos por pagar' Concepto='Provision Nomina' Debe='0.00' Haber='10000.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-95' Fecha='2017-02-28' Concepto='POLIZA DE AJUSTE POR DIFERENCIA CAMBIARIA'>
+<PLZ:Transaccion NumCta='200-120-001' DesCta='AGROQUíMICOS E IMPORTACIONES DE RIEGO LA HUERTA SA DE CV' Concepto='Utilidad en cambios' Debe='199.14' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='401-001-000' DesCta='GANANCIA CAMBIARIA' Concepto='Utilidad en cambios' Debe='0.00' Haber='199.14' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-96' Fecha='2017-02-28' Concepto='Compensación ISR Ret Salarios Enero 2017'>
+<PLZ:Transaccion NumCta='203-100-000' DesCta='ISR Salarios' Concepto='Compensación ISR Ret Salarios Enero 2017' Debe='4247.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='110-200-000' DesCta='IVA a Favor' Concepto='Compensación ISR Ret Salarios Enero 2017' Debe='0.00' Haber='4247.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-97' Fecha='2017-02-28' Concepto='Traspaso de Ivas'>
+<PLZ:Transaccion NumCta='110-200-000' DesCta='IVA a Favor' Concepto='Traspaso de Ivas' Debe='5084.80' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='106-100-000' DesCta='Iva Acreditable Pagado' Concepto='Traspaso de Ivas' Debe='0.00' Haber='5084.80' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-98' Fecha='2017-02-28' Concepto='Provisión Cuotas Imss Febrero 2017'>
+<PLZ:Transaccion NumCta='503-010-006' DesCta='CUOTAS AL IMSS' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='2273.45' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='208-100-000' DesCta='IMSS Patronal' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='0.00' Haber='2273.45' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='503-010-008' DesCta='APORTACIONES SAR' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='3195.67' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='208-200-000' DesCta='SAR por Pagar' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='0.00' Haber='3195.67' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='503-010-007' DesCta='APORTACIONES INFONAVIT' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='2546.35' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='208-300-000' DesCta='INFONAVIT por Pagar' Concepto='Provisión Cuotas Imss Febrero 2017' Debe='0.00' Haber='2546.35' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-99' Fecha='2017-02-28' Concepto='Provisión 2% s/nomina Febrero 2017'>
+<PLZ:Transaccion NumCta='503-010-009' DesCta='IMPUESTO ESTATAL SOBRE NOMINAS' Concepto='Provisión 2% s/nomina Febrero 2017' Debe='494.00' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='202-300-000' DesCta='2% sobre Nómina' Concepto='Provisión 2% s/nomina Febrero 2017' Debe='0.00' Haber='494.00' ></PLZ:Transaccion></PLZ:Poliza>
+<PLZ:Poliza NumUnIdenPol='3-2017-02-100' Fecha='2017-02-28' Concepto='Depreciación Febrero'>
+<PLZ:Transaccion NumCta='512-004-000' DesCta='MAQUINARIA Y EQUIPO' Concepto='Depreciación Febrero' Debe='7152.70' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='127-100-000' DesCta='DEPRECIACION ACUMULADA DE MAQUINARIA Y EQUIPO' Concepto='Depreciación Febrero' Debe='0.00' Haber='7152.70' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='512-001-000' DesCta='Mob y Equipo de Oficina' Concepto='Depreciación Febrero' Debe='214.34' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='121-100-000' DesCta='Depreciacion Acum. de Mob y Eq. de Oficina' Concepto='Depreciación Febrero' Debe='0.00' Haber='214.34' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='512-003-000' DesCta='Equipo de Computo' Concepto='Depreciación Febrero' Debe='256.42' Haber='0.00' ></PLZ:Transaccion>
+<PLZ:Transaccion NumCta='125-100-000' DesCta='Depreciacion Acum. Eqpo de Computo' Concepto='Depreciación Febrero' Debe='0.00' Haber='256.42' ></PLZ:Transaccion></PLZ:Poliza></PLZ:Polizas>

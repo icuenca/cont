@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Fecha="2018-02-15T17:45:26" TipoDeComprobante="I" FormaPago="03" CondicionesDePago="CONTADO" SubTotal="148275.86" Total="172000.00" Moneda="MXN" TipoCambio="1" MetodoPago="PUE" LugarExpedicion="44535" Folio="1024" Serie="A" NoCertificado="00001000000306008062" Sello="O61PblFNbjhMNyYqonfgrB8L1Kp9Nqm8GdI2405QO6KIZ2j9AffzcG/vu5HLgvUmcEaKOFJDGopQdoOjRWUekhYBgJ2eqsAJUixVouBbAWOqjJqAf0PzROeWvU5jXVoIhTKRnpw2dDhN4QCr7FFNzh+SeZqxSpqd98FEnNaYKZE=" Certificado="MIIEnDCCA4SgAwIBAgIUMDAwMDEwMDAwMDAzMDYwMDgwNjIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNTAyMDUyMzE0MjJaFw0xOTAyMDUyMzE0MjJaMIHoMS4wLAYDVQQDEyVBSUcgR1JVUE8gQVNFU09SIEVNUFJFU0FSSUFMIFNBIERFIENWMS4wLAYDVQQpEyVBSUcgR1JVUE8gQVNFU09SIEVNUFJFU0FSSUFMIFNBIERFIENWMS4wLAYDVQQKEyVBSUcgR1JVUE8gQVNFU09SIEVNUFJFU0FSSUFMIFNBIERFIENWMSUwIwYDVQQtExxBR0ExMjExMzAySzMgLyBQRVZPNzMwODEyN0U0MR4wHAYDVQQFExUgLyBQRVZPNzMwODEySEpDUkRTMDQxDzANBgNVBAsTBlVuaWRhZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAo/12dU61etRZRkpPKj2OBX+LQRRUqXcHI6mA81gZ9aueKy8ZbYCunqIvDqWid1oRdDhmQgQlUujUPoZTL+u0ulXDgekx15JoYq7R3slHr+00vTBjer8EJfKB/QR8LAVETSylJEzS2gsrbcffCmUlVQQQ/ZcYrzFx4pITbgc6WIECAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHiUh2Fc5U7IjI9/yOzFn3seSWrVeOzp8crN0GyW/ShgOcOFkI7ZyV9CXnMh9I3p74PsKKn8sxYDrW2iSAXxscUiHYX02d5N97qmay/LnFvxOhKtufTkD0RcQXmQb3YDDMdaqY5B+eCNRhX2O1WCL3g8QSFvsnKHzTy6/p/4sytX/VAJClgtItxZ6470C6mNbfXB8EkiaZpJ59wGsRPFOyRLPJ3Ha10LXrg4BEHhiCkhYvZhbUELK95IjZo9YLAvSqf06GgXW8RIxn0NP19D0ll1YcWNpJl8m4EAHj6oykJPc0Srup/0QvIZZUO/p4dLoWjUCO1QkJOxTWvUIHysm6c=">
+  <cfdi:Emisor Rfc="AGA1211302K3" Nombre="AIG Grupo Asesor Empresarial, SA de CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IHA000314A38" Nombre="INFORMATICA HAGAG, SA DE CV" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="84111500" Cantidad="1.00" ClaveUnidad="E48" Descripcion="ASESORIA ADMINISTRATIVA DE GESTION EMPRESARIAL" ValorUnitario="148275.86" Importe="148275.86">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="148275.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23724.1376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="23724.14">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23724.14" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+ 
+ <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="536DF5EC-1373-11E8-BDC5-7BA97B1978BD" FechaTimbrado="2018-02-16T17:44:27" RfcProvCertif="FMO1007168C6" SelloCFD="O61PblFNbjhMNyYqonfgrB8L1Kp9Nqm8GdI2405QO6KIZ2j9AffzcG/vu5HLgvUmcEaKOFJDGopQdoOjRWUekhYBgJ2eqsAJUixVouBbAWOqjJqAf0PzROeWvU5jXVoIhTKRnpw2dDhN4QCr7FFNzh+SeZqxSpqd98FEnNaYKZE=" NoCertificadoSAT="00001000000401477845" SelloSAT="j5Y/ysZ8xuj5d7gCXYJnmnTeSGiZbTCEgx6BfaWo+73hmEjiC0EIGUFLEHVarGfaSjQKV791pv9HfxcVVQLxndlUSzQL5ZYX2Mv6U3+zKOR5+abuM78mY+a7HyPVwhPWrBHGgxBbCUjTMyYBtCJmQjwbNwfJyc08ne3nuZJvuu39xVfBC3en6EZCzdp87dsjKtR3Ge7UmmVerwxUnEVmu4kFDUm35gPeafUwD8ifjjEVh34nynX7Sq+uYz9bVRDmJxUV839/yvXjbiPdidyJtS5+ZSO4WwX6LLB2fAKVvc6vbHxbvCJCmmnFHnSQ5QwTeQ7d/2DG2VPj6e/PAmYlvg==" /></cfdi:Complemento>
+</cfdi:Comprobante>
